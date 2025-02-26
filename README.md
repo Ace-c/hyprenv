@@ -17,7 +17,7 @@
 ## Gruv
 | ![Image 1](https://github.com/user-attachments/assets/e2af208f-479e-4f1d-a44c-9617bd6783d1) | ![Image 2](https://github.com/user-attachments/assets/e2c2c4e0-e7e4-4185-a5e7-b5762a1d56fe) |
 |---|---|
-| ![Image 3](https://github.com/user-attachments/assets/df3519ef-bfdd-4faa-b5a0-46e4f95f000a) | ![Image 4](https://github.com/user-attachments/assets/06989278-ec35-45a4-9a61-7f1f5c9b8a27) |
+| ![Image 3](https://github.com/user-attachments/assets/30fa3c33-3587-4cf1-b870-914550cc2877) | ![Image 4](https://github.com/user-attachments/assets/06989278-ec35-45a4-9a61-7f1f5c9b8a27) |
 
 ## Dracula
 | ![Image 1](https://github.com/user-attachments/assets/7fb2f079-492f-4c61-a927-3bf2498ca119) | ![Image 2](https://github.com/user-attachments/assets/1a91f670-ca3f-4a73-8e5d-fbdd92b741af) |
