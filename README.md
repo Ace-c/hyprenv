@@ -5,7 +5,7 @@
 
 
 ## Everblush :
-| ![Image 1](https://github.com/user-attachments/assets/a7dc23e9-0822-4f89-90e7-7ff89b3ccf39) | ![Image 2](https://github.com/user-attachments/assets/db3e5980-5d3a-4792-80cc-0f0d970a1953) |
+| ![Image 1](https://github.com/user-attachments/assets/a7dc23e9-0822-4f89-90e7-7ff89b3ccf39) | ![Image 2](https://github.com/user-attachments/assets/b6e04005-c198-4102-b6a7-938b2fb745fd) |
 |---|---|
 | ![Image 3](https://github.com/user-attachments/assets/1b1b16ca-fc91-464f-a8c7-a817f47311ea) | ![Image 4](https://github.com/user-attachments/assets/d63fe3a2-e06a-4283-91be-a52e85c41812) |
 
