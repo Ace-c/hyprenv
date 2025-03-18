@@ -10,8 +10,8 @@ TextHinting=Enabled
 [Dlg Accessibility]
 BWContrast=3
 BWThreshold=19
-RecolorBackground=51,54,68
-RecolorForeground=237,241,249
+RecolorBackground=49,52,66
+RecolorForeground=225,232,231
 
 [Dlg Presentation]
 SlidesBackgroundColor=76,79,105
@@ -22,7 +22,7 @@ PaperColor=51,53,70
 RenderMode=Recolor
 
 [PageView]
-BackgroundColor=51,54,68
+BackgroundColor=49,52,66
 UseCustomBackgroundColor=true
 
 [Reviews]
