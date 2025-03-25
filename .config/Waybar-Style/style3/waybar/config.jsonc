@@ -225,6 +225,9 @@
 
 "custom/stack": {
   "format": "",
+    "on-click": "hyprshade on ~/.config/hypr/shaders/redshift.glsl",
+    "on-click-right": "hyprshade on ~/.config/hypr/shaders/vibrance-custom.glsl",
+    "tooltip-format": "Hyprshade",
 },
 
   "custom/power": {
