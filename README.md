@@ -100,7 +100,7 @@ Just Install [NvChad](https://nvchad.com/) theme
 > Change the location of firefox (dark.css file) in script (Switch7)
 
     
-You you want to sync newtab page with system theme, Install this addon : 
+Want to sync newtab page with system theme? Install this addon : 
 [New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
 &nbsp;
