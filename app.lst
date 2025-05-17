@@ -1,4 +1,4 @@
-# --------------------------------------------------- // System
+# --------------------------------------------------- // System Utilities
 pipewire                                               # audio/video server
 pipewire-alsa                                          # pipewire alsa client
 pipewire-audio                                         # pipewire audio client
