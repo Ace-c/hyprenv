@@ -4,8 +4,7 @@
  * @author refact0r, ayu
  * @version 1.0.1
  */
-/* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
-@import url('https://refact0r.github.io/midnight-discord/midnight.css');
+@import url('https://raw.githubusercontent.com/refact0r/midnight-discord/refs/heads/master/themes/midnight.theme.css');
 
 /* customize things here */
 :root {
