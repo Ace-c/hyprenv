@@ -5,13 +5,9 @@
  * @version 1.6.2
 */
 
-/* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
-
-@import url('https://refact0r.github.io/midnight-discord/midnight.css');
-
+@import url('https://raw.githubusercontent.com/refact0r/midnight-discord/refs/heads/master/themes/midnight.theme.css');
 @import url('https://fonts.googleapis.com/css?family=Inter');
 
-/* customize things here */
 :root {
 	/* font, change to 'gg sans' for default discord font*/
 	--font: 'Inter';
