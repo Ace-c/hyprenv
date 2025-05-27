@@ -7,7 +7,6 @@
 
 @import url('https://raw.githubusercontent.com/refact0r/midnight-discord/refs/heads/master/themes/midnight.theme.css');
 
-/* customize things here */
 :root {
 	/* font, change to 'gg sans' for default discord font */
 	--font: 'figtree';
