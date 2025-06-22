@@ -18,6 +18,7 @@ udiskie                                                # manage removable media
 pacman-contrib                                         # for system update check
 parallel                                               # for parallel processing
 jq                                                     # for json processing
+polkit-lxqt                                            # authentication agent
 
 # --------------------------------------------------- // Display Manager
 sddm                                                   # display manager for KDE plasma
@@ -30,9 +31,11 @@ waybar                                                 # system bar
 swww                                                   # wallpaper
 wlogout                                                # logout menu
 cliphist                                               # clipboard manager
-polkit-lxqt                                            # authentication agent
 xdg-desktop-portal-hyprland                            # xdg desktop portal for hyprland
 libnotify                                              # for notifications
+hyprshot                                               # Screenshot
+hyprshade                                              # Used for Blue-light filter
+hyprlock                                               # Screen lock for hyprland
 
 # --------------------------------------------------- // Theming
 nwg-look                                               # gtk3 configuration tool
