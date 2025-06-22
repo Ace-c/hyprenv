@@ -37,7 +37,7 @@
 # Step-Wise Installation Process For Fresh Installed Arch:
 
 ## Official 
-    sudo pacman -S hyprland waybar rofi-wayland libnotify dunst swww xdg-desktop-portal-hyprland hyprshot hyprlock cliphist nwg-look qt5-wayland qt6-wayland qt5ct qt6ct kvantum kvantum-qt5 sddm networkmanager network-manager-applet bluez bluez-utils blueman brightnessctl udiskie pacman-contrib parallel jq pipewire-audio pipewire-alsa pipewire-jack pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer mpv mpv-mpris playerctl kitty btop pcmanfm-qt lxqt-policykit trash-cli
+    sudo pacman -S hyprland waybar rofi-wayland libnotify dunst swww xdg-desktop-portal-hyprland hyprshot hyprlock cliphist nwg-look qt5-wayland qt6-wayland qt5ct qt6ct kvantum kvantum-qt5 sddm networkmanager network-manager-applet bluez bluez-utils blueman brightnessctl udiskie pacman-contrib parallel jq pipewire-audio pipewire-alsa pipewire-jack pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer mpv mpv-mpris playerctl kitty btop cava pcmanfm-qt lxqt-policykit trash-cli
 ## AUR 
     yay -S qt5-styleplugins hyprshade wlogout visual-studio-code-bin cava-git
 
