@@ -19,6 +19,7 @@ pacman-contrib                                         # for system update check
 parallel                                               # for parallel processing
 jq                                                     # for json processing
 polkit-lxqt                                            # authentication agent
+gvfs                                                   # Provide mounting and trash functionality
 
 # --------------------------------------------------- // Display Manager
 sddm                                                   # display manager for KDE plasma
