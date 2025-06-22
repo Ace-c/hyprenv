@@ -48,11 +48,8 @@ qt6-wayland                                            # wayland support in qt6
 shotwell                                               # Image viewer
 mpv | vlc                                              # Media player
 visual-studio-code | Neovim                            # Code editor     
-amberol                                                # Music player
 trash-cli                                              # Trash management
 Firefox                                                # Browser
-Logseq                                                 # Knowledge Management
 Kitty                                                  # Terminal
-Obsidian                                               # Note taking
 Okular                                                 # Pdf & ebook-Reader
 PCManFM-Qt                                             # File Manager
