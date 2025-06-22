@@ -34,12 +34,12 @@
 
 
 
-# Dependencies :
+# Step-Wise Installation Process :
 
 ## Official 
-    Waybar kitty mpv-mpris dunst swww wl-clipboard rofi qt5ct qt6ct nwg-look discord playerctl btop ranger xdotool pcmanfm-qt
+    sudo pacman -S hyprland waybar kitty dunst swww wl-clipboard cliphist rofi mpv-mpris qt5ct qt6ct kvantum nwg-look playerctl btop ranger cava pcmanfm-qt lxqt-policykit xdg-desktop-portal-hyprland
 ## AUR 
-    qt5-styleplugins hyprshot hyprshade hyprlock cava wlogout visual-studio-code-bin betterdiscord-installer wttrbar xdotool
+    yay -S qt5-styleplugins hyprshot hyprshade hyprlock wlogout visual-studio-code-bin
 
 ## Fonts :
 
@@ -68,30 +68,6 @@ Just Install [NvChad](https://nvchad.com/) theme
 
 ***
 
-### Discord
-
-    Install betterdiscord
-
-
-***
-
-### Logseq
-
-    Download logseq-flow-nord-theme from store
-    
-***
-
-### Obsidian
-
-    Dracula Gemini
-    Obsidian Gruvbox
-    Nordic
-    Everforest
-    Everblush
-
-> NOTE : Make sure to change your obsidian vault location in the script (script7), it requires appearance.json file location
-
-***
 
 ### Firefox
 
@@ -100,7 +76,7 @@ Just Install [NvChad](https://nvchad.com/) theme
 > Change the location of firefox (dark.css file) in script (Switch7)
 
     
-Want to sync newtab page with system theme? Install this addon : 
+Sync newtab page with system theme. Install this addon : 
 [New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
 &nbsp;
