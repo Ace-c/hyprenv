@@ -45,6 +45,11 @@
 
     sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-font-awesome
 
+* Place all the fonts into the .local/share/fonts dir
+* After then you have to update your font cache, just run
+```
+sudo fc-cache -fv
+```
 ## Enable services :
 ```
 sudo systemctl enable sddm.service
