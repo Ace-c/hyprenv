@@ -34,12 +34,12 @@
 
 
 
-# Step-Wise Installation Process :
+# Step-Wise Installation Process For Fresh Installed Arch:
 
 ## Official 
-    sudo pacman -S hyprland waybar kitty dunst swww wl-clipboard cliphist rofi mpv-mpris qt5ct qt6ct kvantum nwg-look playerctl btop ranger cava pcmanfm-qt lxqt-policykit xdg-desktop-portal-hyprland
+    sudo pacman -S hyprland waybar rofi-wayland libnotify dunst swww xdg-desktop-portal-hyprland hyprshot hyprlock cliphist nwg-look qt5-wayland qt6-wayland qt5ct qt6ct kvantum kvantum-qt5 sddm playerctl btop ranger cava pcmanfm-qt lxqt-policykit  trash-cli
 ## AUR 
-    yay -S qt5-styleplugins hyprshot hyprshade hyprlock wlogout visual-studio-code-bin
+    yay -S qt5-styleplugins hyprshade wlogout visual-studio-code-bin
 
 ## Fonts :
 
