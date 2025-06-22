@@ -50,7 +50,7 @@
 sudo systemctl enable sddm.service
 ```
 ```
-systemctl enable NetworkManager
+sudo systemctl enable NetworkManager
 ```
 
 
