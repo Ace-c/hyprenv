@@ -45,6 +45,16 @@
 
     Nerd fonts | maple mono | IBM Plex Sans | JetbrainsMono Nerd | History Yenifer | Johanvaaler | Monokai | Syne-family | Jura
 
+## Enable services :
+```
+sudo systemctl enable sddm.service
+```
+```
+systemctl enable NetworkManager
+```
+
+
+
 &nbsp;
 
 
