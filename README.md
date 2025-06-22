@@ -43,7 +43,7 @@
 
 ## Fonts :
 
-    Nerd fonts | maple mono | IBM Plex Sans | JetbrainsMono Nerd | History Yenifer | Johanvaaler | Monokai | Syne-family | Jura
+    sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono
 
 ## Enable services :
 ```
