@@ -35,6 +35,10 @@
 
 
 # Brainless Installation Process For Fresh Installed Arch:
+* **Clone the repo**
+```
+git clone --bare https://github.com/Ace-c/hyprenv.git
+```
 
 ## Packages to Install :
 ### Official 
@@ -43,17 +47,18 @@
     yay -S qt5-styleplugins hyprshade wlogout visual-studio-code-bin
 > [!IMPORTANT]
 > To install from aur, you need ```yay``` as a helper, install it first.
-## Fonts :
+## Fonts to Install :
 
     sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-font-awesome
 
 > [!NOTE]
-> After then, place all the fonts from this repo to ```~/.local/share/fonts``` dir of your system.
+> Place all the fonts from this repo to ```~/.local/share/fonts``` directory of your system.
 > Now, update your font cache by running this cmmnd
 ```
 sudo fc-cache -fv
 ```
-### Enable services :
+
+## Enable services :
 ```
 sudo systemctl enable sddm.service
 ```
@@ -63,6 +68,7 @@ sudo systemctl enable NetworkManager
 ```
 sudo systemctl enable --now bluetooth.service
 ```
+
 
 
 &nbsp;
