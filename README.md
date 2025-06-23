@@ -34,7 +34,7 @@
 
 
 
-# Brainless Installation Process For Fresh Installed Arch
+# Brainless Installation For Fresh Installed Arch
 
 ## Packages to Install :
 ```
