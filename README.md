@@ -50,8 +50,9 @@
 ```
 yay -S ttf-material-design-icons-git
 ```
-* After then, place all the fonts from this repo to .local/share/fonts dir of your system
-* At last you have to update your font cache, just run
+> [!NOTE]
+> After then, place all the fonts from this repo to ```~/.local/share/fonts``` dir of your system.
+> Now, update your font cache by running this cmmnd
 ```
 sudo fc-cache -fv
 ```
