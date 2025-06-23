@@ -62,19 +62,19 @@ chmod +x install.sh && ./install.sh
 &nbsp;
 
 
-## Install Following Themes for Applications 
+# Install Following Themes for Given Applications 
 
-### Neovim :
+## Neovim :
 - [ ] [NvChad](https://nvchad.com/) Theme
 
-### Visual studio code :
+## Visual studio code :
 - [ ] Dracula Clean
 - [ ] Gruvbox dark medium
 - [ ] Nord
 - [ ] Everforest Dark
 - [ ] Everblush
 
-### Firefox:
+## Firefox:
 - [ ] [Firefox-Nordic-Theme](https://github.com/EliverLara/firefox-nordic-theme)
 - [ ] [New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
@@ -83,26 +83,28 @@ chmod +x install.sh && ./install.sh
 
 
 &nbsp;
-## Some Keybindings :
+# Some Keybindings :
 
-### How to change themes 
-
-1. Everblush  <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>b</kbd>
-2. Everforest <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>e</kbd>
-3. Dracula    <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>d</kbd>
-4. Gruv       <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>g</kbd>
-5. Nord       <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>n</kbd>
+## Switch themes 
+     
+|  Theme Name    |Keybinds                                              |
+|----------------|------------------------------------------------------|
+|Everblush       | <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>b</kbd>   |     
+|Everforest      | <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>e</kbd>   |                     
+|Dracula         | <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>d</kbd>   |
+|Gruv            | <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>g</kbd>   |
+|Nord            | <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>n</kbd>   |
 
 &nbsp;
 
-### Switch Workspace 
+## Switch Workspace 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>←</kbd><kbd>→</kbd>
 
-### Switch Waybar Style 
+## Switch Waybar Style 
 
 <kbd>Super</kbd> + <kbd>Alt</kbd> + <kbd>↑</kbd><kbd>↓</kbd>
 
-### Hide|Unhide Waybar 
+## Hide|Unhide Waybar 
 
 <kbd>Ctrl</kbd> + <kbd>Esc</kbd>
 
