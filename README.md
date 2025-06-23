@@ -36,11 +36,13 @@
 
 # Step-Wise Installation Process For Fresh Installed Arch:
 
-## Official 
+## Packages :
+### Official 
     sudo pacman -S hyprland waybar rofi-wayland libnotify dunst swww xdg-desktop-portal-hyprland hyprshot hyprlock cliphist nwg-look qt5-wayland qt6-wayland qt5ct qt6ct kvantum kvantum-qt5 sddm networkmanager network-manager-applet bluez bluez-utils blueman brightnessctl udiskie pacman-contrib parallel jq pipewire-audio pipewire-alsa pipewire-jack pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer mpv mpv-mpris playerctl kitty btop glances cava pcmanfm-qt lxqt-policykit gvfs
-## AUR 
+### AUR 
     yay -S qt5-styleplugins hyprshade wlogout visual-studio-code-bin ttf-material-design-icons-git
-
+> [!NOTE]
+> To install from aur, you need yay as a helper, install it first.
 ## Fonts :
 
     sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-font-awesome
