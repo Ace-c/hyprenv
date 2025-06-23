@@ -34,8 +34,8 @@
 
 
 
-# Brainless Installation Process For Fresh Installed Arch:
-* **Clone the repo**
+# Brainless Installation Process For Fresh Installed Arch
+## Clone the repository :
 ```
 git clone --bare https://github.com/Ace-c/hyprenv.git
 ```
