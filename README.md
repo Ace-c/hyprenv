@@ -36,19 +36,22 @@
 
 # Step-Wise Installation Process For Fresh Installed Arch:
 
-## Packages :
+## Packages to Install :
 ### Official repositories 
     sudo pacman -S hyprland waybar rofi-wayland libnotify dunst swww xdg-desktop-portal-hyprland hyprshot hyprlock cliphist nwg-look qt5-wayland qt6-wayland qt5ct qt6ct kvantum kvantum-qt5 sddm networkmanager network-manager-applet bluez bluez-utils blueman brightnessctl udiskie pacman-contrib parallel jq pipewire-audio pipewire-alsa pipewire-jack pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer mpv mpv-mpris playerctl kitty btop glances cava pcmanfm-qt lxqt-policykit gvfs
 ### AUR 
-    yay -S qt5-styleplugins hyprshade wlogout visual-studio-code-bin ttf-material-design-icons-git
+    yay -S qt5-styleplugins hyprshade wlogout visual-studio-code-bin
 > [!NOTE]
 > To install from aur, you need yay as a helper, install it first.
 ## Fonts :
 
     sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-font-awesome
 
-* Place all the fonts into the .local/share/fonts dir
-* After then you have to update your font cache, just run
+```
+yay -S ttf-material-design-icons-git
+```
+* After then, place all the fonts from this repo to .local/share/fonts dir of your system
+* At last you have to update your font cache, just run
 ```
 sudo fc-cache -fv
 ```
