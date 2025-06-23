@@ -62,7 +62,7 @@ chmod +x install.sh && ./install.sh
 &nbsp;
 
 
-# Install Following Themes for Given Applications 
+# Install Following Themes for Applications 
 
 ## Neovim :
 - [ ] [NvChad](https://nvchad.com/) Theme
@@ -95,7 +95,6 @@ chmod +x install.sh && ./install.sh
 |Gruv            | <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>g</kbd>   |
 |Nord            | <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>n</kbd>   |
 
-&nbsp;
 
 ## Switch Workspace 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>←</kbd><kbd>→</kbd>
@@ -108,3 +107,4 @@ chmod +x install.sh && ./install.sh
 
 <kbd>Ctrl</kbd> + <kbd>Esc</kbd>
 
+&nbsp;
