@@ -93,6 +93,10 @@ chmod +x install.sh && ./install.sh
 5. Nord       <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>n</kbd>
 
 &nbsp;
+
+## Switch Workspace :
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>←</kbd><kbd>→</kbd>
+
 ## Switch Waybar Style :
 
 <kbd>Super</kbd> + <kbd>Alt</kbd> + <kbd>↑</kbd><kbd>↓</kbd>
