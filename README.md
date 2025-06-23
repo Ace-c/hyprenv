@@ -37,33 +37,19 @@
 # Brainless Installation Process For Fresh Installed Arch
 
 ## Packages to Install :
-### Official 
-    sudo pacman -S --needed hyprland waybar rofi-wayland libnotify dunst swww xdg-desktop-portal-hyprland hyprshot hyprlock cliphist nwg-look qt5-wayland qt6-wayland qt5ct qt6ct kvantum kvantum-qt5 sddm networkmanager network-manager-applet bluez bluez-utils blueman brightnessctl udiskie pacman-contrib parallel jq pipewire-audio pipewire-alsa pipewire-jack pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer mpv mpv-mpris playerctl kitty btop glances cava pcmanfm-qt lxqt-policykit gvfs git
-### AUR 
-    yay -S qt5-styleplugins hyprshade wlogout visual-studio-code-bin
-> [!IMPORTANT]
-> To install from aur, you need ```yay``` as a helper, install it first.
+```
+sudo pacman -S --needed hyprland waybar rofi-wayland libnotify dunst swww xdg-desktop-portal-hyprland hyprshot hyprlock cliphist nwg-look qt5-wayland qt6-wayland qt5ct qt6ct kvantum kvantum-qt5 sddm networkmanager network-manager-applet bluez bluez-utils blueman brightnessctl udiskie pacman-contrib parallel jq pipewire-audio pipewire-alsa pipewire-jack pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer mpv mpv-mpris playerctl kitty btop glances cava pcmanfm-qt lxqt-policykit gvfs git
+```
+```
+yay -S qt5-styleplugins hyprshade wlogout visual-studio-code-bin
+```
+> [!important]
+> To Install from yay, you need to install yay(AUR helper) first
+
 ## Fonts to Install :
 
     sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-font-awesome
 
-> [!NOTE]
-> Place all the fonts from this repo to ```~/.local/share/fonts``` directory of your system.
-> Now, update your font cache by running this cmmnd
-```
-sudo fc-cache -fv
-```
-
-## Enable services :
-```
-sudo systemctl enable sddm.service
-```
-```
-sudo systemctl enable NetworkManager
-```
-```
-sudo systemctl enable --now bluetooth.service
-```
 
 ## Clone repository and run the script :
 
