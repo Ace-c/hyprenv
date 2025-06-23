@@ -49,10 +49,9 @@ qt5-wayland                                            # wayland support in qt5
 qt6-wayland                                            # wayland support in qt6
 
 # --------------------------------------------------- // Applications
-shotwell                                               # Image viewer
-mpv | vlc                                              # Media player
-visual-studio-code | Neovim                            # Code editor     
-trash-cli                                              # Trash management
+qimgv                                                  # Image viewer
+mpv                                                    # Media player
+visual-studio-code & Neovim                            # Code editor     
 Firefox                                                # Browser
 Kitty                                                  # Terminal
 Okular                                                 # Pdf & ebook-Reader
