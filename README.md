@@ -65,12 +65,14 @@ sudo systemctl enable NetworkManager
 sudo systemctl enable --now bluetooth.service
 ```
 
-## Clone repository and copy the files to your system :
+## Clone repository and run the script :
 
 ```
-git clone --bare https://github.com/Ace-c/hyprenv.git ~/.hyprenv && git --git-dir=$HOME/.hyprenv --work-tree=$HOME checkout -f
+git clone https://github.com/yourusername/hyprenv.git
 ```
-
+```
+cd hyprenv && chmod +x install.sh && ./install.sh
+```
 &nbsp;
 
 
