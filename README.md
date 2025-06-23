@@ -34,7 +34,7 @@
 
 
 
-# Step-Wise Installation Process For Fresh Installed Arch:
+# Brainless Installation Process For Fresh Installed Arch:
 
 ## Packages to Install :
 ### Official repositories 
