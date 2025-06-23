@@ -48,7 +48,7 @@ yay -S --needed qt5-styleplugins hyprshade wlogout visual-studio-code-bin
 
 ## Fonts to Install :
 
-    sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-font-awesome
+    sudo pacman -S --needed ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-font-awesome
 
 
 ## Clone repository and run the script :
