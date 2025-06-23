@@ -68,10 +68,7 @@ sudo systemctl enable --now bluetooth.service
 ## Clone repository and run the script :
 
 ```
-git clone https://github.com/Ace-c/hyprenv.git
-```
-```
-cd hyprenv
+git clone https://github.com/Ace-c/hyprenv.git && cd hyprenv
 ```
 ```
 chmod +x install.sh && ./install.sh
