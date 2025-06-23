@@ -80,9 +80,9 @@ chmod +x install.sh && ./install.sh
 > [!IMPORTANT]
 > Change the location of firefox (dark.css file) in script **Switch7**
 
-    
-Sync newtab page with system theme. Install this addon : 
-[New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
+> [!NOTE]
+> Sync newtab page with system theme. Install this addon : 
+> [New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
 &nbsp;
 
