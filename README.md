@@ -75,9 +75,10 @@ chmod +x install.sh && ./install.sh
 - [ ] Everblush
 
 ### Firefox:
-[Firefox-Nordic-Theme](https://github.com/EliverLara/firefox-nordic-theme)
+- [ ] [Firefox-Nordic-Theme](https://github.com/EliverLara/firefox-nordic-theme)
 
-> Change the location of firefox (dark.css file) in script (Switch7)
+> [!IMPORTANT]
+> Change the location of firefox (dark.css file) in script **Switch7**
 
     
 Sync newtab page with system theme. Install this addon : 
