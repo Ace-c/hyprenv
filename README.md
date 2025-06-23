@@ -47,9 +47,6 @@
 
     sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-font-awesome
 
-```
-yay -S ttf-material-design-icons-git
-```
 > [!NOTE]
 > After then, place all the fonts from this repo to ```~/.local/share/fonts``` dir of your system.
 > Now, update your font cache by running this cmmnd
