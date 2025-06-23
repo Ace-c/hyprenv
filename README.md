@@ -65,7 +65,7 @@ chmod +x install.sh && ./install.sh
 # Install Following Themes for Applications 
 
 ## Neovim :
-- [ ] [NvChad](https://nvchad.com/) Theme
+- [ ] [NvChad](https://nvchad.com/docs/quickstart/install) Theme
 
 ## Visual studio code :
 - [ ] Dracula Clean
