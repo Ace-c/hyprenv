@@ -64,15 +64,15 @@ chmod +x install.sh && ./install.sh
 
 # Install Following Themes for Applications 
 
-## Neovim :
-- [ ] [NvChad](https://nvchad.com/docs/quickstart/install) Theme
-
 ## Visual studio code :
 - [ ] Dracula Clean
 - [ ] Gruvbox dark medium
 - [ ] Nord
 - [ ] Everforest Dark
 - [ ] Everblush
+
+## Neovim :
+- [ ] [NvChad](https://nvchad.com/docs/quickstart/install) Theme
 
 ## Firefox:
 - [ ] [Firefox-Nordic-Theme](https://github.com/EliverLara/firefox-nordic-theme)
