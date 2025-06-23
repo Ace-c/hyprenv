@@ -42,7 +42,7 @@
 ### AUR 
     yay -S qt5-styleplugins hyprshade wlogout visual-studio-code-bin
 > [!IMPORTANT]
-> To install from aur, you need yay as a helper, install it first.
+> To install from aur, you need ```yay``` as a helper, install it first.
 ## Fonts :
 
     sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-font-awesome
