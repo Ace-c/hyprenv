@@ -84,13 +84,13 @@ chmod +x install.sh && ./install.sh
 
 &nbsp;
 
-## How to change theme from terminal :
+## How to change themes :
 
-``` cd .config/hypr/scripts ```
-
-```
-./switchmaster.sh -e  [-e(everforest) -d(dracula) -g(gruv) -n(nord) -b(everblush)]
-```
+1. Everblush  <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>b</kbd>
+2. Everforest <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>e</kbd>
+3. Dracula    <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>d</kbd>
+4. Gruv       <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>g</kbd>
+5. Nord       <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>n</kbd>
 
 &nbsp;
 ## Switch Waybar Style :
