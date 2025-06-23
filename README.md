@@ -76,13 +76,11 @@ chmod +x install.sh && ./install.sh
 
 ### Firefox:
 - [ ] [Firefox-Nordic-Theme](https://github.com/EliverLara/firefox-nordic-theme)
+- [ ] [New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
 > [!IMPORTANT]
 > Change the location of firefox (dark.css file) in script **Switch7**
 
-> [!NOTE]
-> Sync newtab page with system theme. Install this addon : 
-> [New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
 &nbsp;
 
