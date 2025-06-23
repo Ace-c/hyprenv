@@ -62,19 +62,19 @@ chmod +x install.sh && ./install.sh
 &nbsp;
 
 
-## Install following themes for applications :
+## Install Following Themes for Applications 
 
-### Neovim
-Just Install [NvChad](https://nvchad.com/) theme
+### Neovim :
+- [ ] [NvChad](https://nvchad.com/) Theme
 
-### Visual studio code
-    Dracula Clean
-    Gruvbox dark medium
-    Nord
-    Everforest Dark
-    Everblush
+### Visual studio code :
+- [ ] Dracula Clean
+- [ ] Gruvbox dark medium
+- [ ] Nord
+- [ ] Everforest Dark
+- [ ] Everblush
 
-### Firefox
+### Firefox:
 [Firefox-Nordic-Theme](https://github.com/EliverLara/firefox-nordic-theme)
 
 > Change the location of firefox (dark.css file) in script (Switch7)
