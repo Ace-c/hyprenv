@@ -83,8 +83,9 @@ chmod +x install.sh && ./install.sh
 
 
 &nbsp;
+## Some Keybindings :
 
-## How to change themes :
+### How to change themes 
 
 1. Everblush  <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>b</kbd>
 2. Everforest <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>e</kbd>
@@ -94,14 +95,14 @@ chmod +x install.sh && ./install.sh
 
 &nbsp;
 
-## Switch Workspace :
+### Switch Workspace 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>←</kbd><kbd>→</kbd>
 
-## Switch Waybar Style :
+### Switch Waybar Style 
 
 <kbd>Super</kbd> + <kbd>Alt</kbd> + <kbd>↑</kbd><kbd>↓</kbd>
 
-## Hide|Unhide Waybar :
+### Hide|Unhide Waybar 
 
 <kbd>Ctrl</kbd> + <kbd>Esc</kbd>
 
