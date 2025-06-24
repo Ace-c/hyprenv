@@ -61,8 +61,9 @@ chmod +x install.sh && ./install.sh
 ```
 > [!CAUTION]
 > Backup is advised if you're not installing it on fresh vanilla arch.
-&nbsp;
 
+
+&nbsp;
 
 # Install Following Themes for Applications 
 
