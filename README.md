@@ -59,6 +59,8 @@ git clone https://github.com/Ace-c/hyprenv.git && cd hyprenv
 ```
 chmod +x install.sh && ./install.sh
 ```
+> [!CAUTION]
+> Backup is advised if you're not installing it on fresh vanilla arch.
 &nbsp;
 
 
