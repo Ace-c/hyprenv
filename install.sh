@@ -18,12 +18,16 @@ else
     cp -r .themes ~/
 fi
 
-if [ -d ~/.local/share ]; then
-    cp -r fonts ~/.local/share/
+if [ -d ~/.local/share/fonts ]; then
+    cp -r fonts/* ~/.local/share/fonts/
 else
-    mkdir -p ~/.local/share
-    cp -r fonts ~/.local/share/
+    mkdir -p ~/.local/share/fonts
+    cp -r fonts/* ~/.local/share/fonts/
 fi
 
-cp .gtkrc-2.0 ~/
+if [ -f ~/.zshrc ]; then
+    mv ~/.zshrc ~/.zshrc.bak
+fi
 cp .zshrc ~/
+cp .gtkrc-2.0 ~/
+
