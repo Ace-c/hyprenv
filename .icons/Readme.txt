@@ -1,6 +1,5 @@
 
-Extract all Icons here
+Manual Installation :
 
-Few things to check before : 
-1. Match extracted icons name to defined icons name in hypr/themes/themes.conf (themes.conf will be your choosen theme name)
-2. Some icons packs may not works, to fix this pls update icon packs, check out on pling store.
+1. You have to extract all Icons here.
+3. If icons is not working, you have to chekout ```.config/hypr/themes``` dir and match the name. or other reason is, you have to update icon packs, check out on pling store.
