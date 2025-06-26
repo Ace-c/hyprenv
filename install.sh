@@ -17,7 +17,7 @@ else
     cp -r .icons ~/
 fi
 
-tar -xf .themes/Theme.tar.zst -C .themes/
+tar -xf .themes/Themes.tar.zst -C .themes/
 rm .themes/Theme.tar.zst
 
 if [ -d ~/.themes ]; then
