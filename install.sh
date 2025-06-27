@@ -18,7 +18,7 @@ else
 fi
 
 tar -xf .themes/Themes.tar.zst -C .themes/
-rm .themes/Theme.tar.zst
+rm .themes/Themes.tar.zst
 
 if [ -d ~/.themes ]; then
     cp -r .themes/* ~/.themes/
