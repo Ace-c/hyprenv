@@ -16,7 +16,6 @@ blueman                                                # bluetooth manager gui
 brightnessctl                                          # screen brightness control
 udiskie                                                # manage removable media
 pacman-contrib                                         # for system update check
-parallel                                               # for parallel processing
 jq                                                     # for json processing
 polkit-lxqt                                            # authentication agent
 gvfs                                                   # Provide mounting and trash functionality
