@@ -90,7 +90,7 @@ chmod +x install.sh && ./install.sh
 ```
 https://github.com/Ayu-0/sddm-hyprenv-theme.git
 ```
-2. GRUB Theme -
+3. GRUB Theme -
 ```
 https://github.com/Ace-c/grub-vimix-theme.git
 ```
