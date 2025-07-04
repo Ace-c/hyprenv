@@ -84,6 +84,7 @@ chmod +x install.sh && ./install.sh
 > [!IMPORTANT]
 > Change the location of firefox (dark.css file) in script **Switch7**
 
+&nbsp;
 ## SDDM & GRUB Theming :
 1. SDDM Theme 
 ```
