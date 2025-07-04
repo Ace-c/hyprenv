@@ -85,7 +85,16 @@ chmod +x install.sh && ./install.sh
 > Change the location of firefox (dark.css file) in script **Switch7**
 
 ## SDDM & GRUB Theming :
-* [Follow this guide](https://github.com/Ace-c/hyprenv/wiki/SDDM-&-GRUB-Theme-Installation-Guide)
+1. SDDM Theme 
+```
+https://github.com/Ayu-0/sddm-hyprenv-theme.git
+```
+2. GRUB Theme -
+```
+https://github.com/Ace-c/grub-vimix-theme.git
+```
+* If you want to know more follow this [Basic Installation Guide](https://github.com/Ace-c/hyprenv/wiki/SDDM-&-GRUB-Theme-Installation-Guide)
+
 
 &nbsp;
 # Some Keybindings :
