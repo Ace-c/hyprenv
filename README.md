@@ -86,7 +86,7 @@ chmod +x install.sh && ./install.sh
 
 &nbsp;
 ## SDDM & GRUB Theming :
-1. SDDM Theme 
+1. SDDM Theme -
 ```
 https://github.com/Ayu-0/sddm-hyprenv-theme.git
 ```
