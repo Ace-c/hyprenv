@@ -93,7 +93,7 @@ https://github.com/Ayu-0/sddm-hyprenv-theme.git
 ```
 https://github.com/Ace-c/grub-vimix-theme.git
 ```
-* Brainless guide to install GRUB & SDDM themes, just [Follow this Guide](https://github.com/Ace-c/hyprenv/wiki/SDDM-&-GRUB-Theme-Installation-Guide)
+> **Brainless guide to install GRUB & SDDM themes, just [Follow this Guide](https://github.com/Ace-c/hyprenv/wiki/SDDM-&-GRUB-Theme-Installation-Guide)**
 
 
 &nbsp;
