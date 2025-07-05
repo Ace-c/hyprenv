@@ -1,15 +1,15 @@
 
-# Themes :
+# Themes 
 
     Everblush | Everforest | Gruvbox | Dracula | Nord 
 
 
-## Everblush :
+## Everblush 
 | ![Image 1](https://github.com/user-attachments/assets/a7dc23e9-0822-4f89-90e7-7ff89b3ccf39) | ![Image 2](https://github.com/user-attachments/assets/9fa67aba-c5be-46b7-94da-d241ddd261aa) |
 |---|---|
 
 
-## Everforest :
+## Everforest 
 | ![Image 1](https://github.com/user-attachments/assets/39cb7078-40be-43b1-b2df-ded0f0274e71) | ![Image 2](https://github.com/user-attachments/assets/e0a8e05b-2bcf-479e-a0e8-5df6e60dd9e8) |
 |---|---|
 
@@ -65,14 +65,12 @@ chmod +x install.sh && ./install.sh
 
 &nbsp;
 
-# Required Themes for Applications 
+# Installing Following Themes for Applications 
 
 > [!TIP]
-> If you want to Install different themes, then you have to do changes in script file located in `~/.config/hypr/scripts/`
-> 
-> Visual-studio-code Themes are in `switch4.sh` script file
-> 
-> Firefox & Neovim Themes are in `switch7.sh` script file
+> If you want to install different themes and also sync them with the system, then you need to make changes to the script file located in `~/.config/hypr/scripts/`
+> * Visual-studio-code Themes are in `switch4.sh` script file
+> * Firefox & Neovim Themes are in `switch7.sh` script file
  
 ## Visual studio code :
 - [ ] Dracula Clean
@@ -90,8 +88,8 @@ chmod +x install.sh && ./install.sh
 
 &nbsp;
 
-# SDDM & GRUB Theming :
-## SDDM Theme 
+# SDDM & GRUB Theming 
+## SDDM Theme :
 
 | ![Image 1](https://github.com/user-attachments/assets/63055107-c1e1-481b-9f55-58bb22a1db38) | ![Image 2](https://github.com/user-attachments/assets/cf0c8fe1-8698-40f9-a808-161ae67ad245) | ![Image 4](https://github.com/user-attachments/assets/f76e9d58-b2b8-4f10-9892-9ef8fe3f0a02) |
 |---|---|---|
@@ -105,7 +103,7 @@ sudo systemctl enable sddm
 2. To install this theme <a href="https://github.com/Ace-c/sddm-hyprenv-theme.git">Click Here</a>.
 </pre>
 
-## GRUB Theme 
+## GRUB Theme :
 
 <table width="100%">
   <tr>
