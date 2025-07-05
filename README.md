@@ -83,6 +83,11 @@ chmod +x install.sh && ./install.sh
 -  [Firefox-Theme](https://github.com/EliverLara/firefox-nordic-theme#installation-script)
 -  Firefox [New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
+> [!NOTE]
+> To sync this with system theme, You need to change firefox theme location in `script7`
+> 
+> Also, This Extension have all themes included in, just import this file to extension
+
 ## Neovim :
 *  Install [NvChad](https://nvchad.com/docs/quickstart/install) Distro.
 
