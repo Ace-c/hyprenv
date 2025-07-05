@@ -88,20 +88,25 @@ chmod +x install.sh && ./install.sh
 ## SDDM & GRUB Theming :
 1. SDDM Theme -
 
-| ![Image 1](https://github.com/user-attachments/assets/63055107-c1e1-481b-9f55-58bb22a1db38) | ![Image 2](https://github.com/user-attachments/assets/cf0c8fe1-8698-40f9-a808-161ae67ad245) |
-|---|---|
-| ![Image 3](https://github.com/user-attachments/assets/baefb8a1-14f3-4940-a8db-484a0153845d) | ![Image 4](https://github.com/user-attachments/assets/f76e9d58-b2b8-4f10-9892-9ef8fe3f0a02) |
-|---|---|
+| ![Image 1](https://github.com/user-attachments/assets/63055107-c1e1-481b-9f55-58bb22a1db38) | ![Image 2](https://github.com/user-attachments/assets/cf0c8fe1-8698-40f9-a808-161ae67ad245) | ![Image 4](https://github.com/user-attachments/assets/f76e9d58-b2b8-4f10-9892-9ef8fe3f0a02) |
+|---|---|---|
 
-
-To Install this Theme [click here](https://github.com/Ace-c/sddm-hyprenv-theme.git)
-
-
-3. GRUB Theme -
+* If SDDM is not installed in your arch, Install & enable it. If Installed skip this part -
 ```
-https://github.com/Ace-c/grub-vimix-theme.git
+sudo pacman -S sddm
+````
 ```
-> **Brainless guide to install GRUB & SDDM themes, just [Follow this Guide](https://github.com/Ace-c/hyprenv/wiki/SDDM-&-GRUB-Theme-Installation-Guide)**
+sudo systemctl enable sddm
+```
+
+* To Install This Theme [Click Here](https://github.com/Ace-c/sddm-hyprenv-theme.git), and follow the guide.
+
+
+2. GRUB Theme -
+```
+
+```
+> **Brainless guide to install this GRUB theme, just [Follow this Guide](https://github.com/Ace-c/grub-vimix-theme.git)**
 
 
 &nbsp;
