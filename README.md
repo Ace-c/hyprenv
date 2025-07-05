@@ -79,7 +79,7 @@ chmod +x install.sh && ./install.sh
 - [ ] Everforest Dark
 - [ ] Everblush
 
-## Firefox:
+## Firefox :
 -  [Firefox-Theme](https://github.com/EliverLara/firefox-nordic-theme#installation-script)
 -  Firefox [New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
