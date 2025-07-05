@@ -65,7 +65,7 @@ chmod +x install.sh && ./install.sh
 
 &nbsp;
 
-# Install Following Themes for Applications 
+# Required Themes for Applications 
 
 ## Visual studio code :
 - [ ] Dracula Clean
@@ -85,28 +85,27 @@ chmod +x install.sh && ./install.sh
 > Change the location of firefox (dark.css file) in script **Switch7**
 
 &nbsp;
-## SDDM & GRUB Theming :
-1. SDDM Theme -
+
+# SDDM & GRUB Theming :
+## SDDM Theme -
 
 | ![Image 1](https://github.com/user-attachments/assets/63055107-c1e1-481b-9f55-58bb22a1db38) | ![Image 2](https://github.com/user-attachments/assets/cf0c8fe1-8698-40f9-a808-161ae67ad245) | ![Image 4](https://github.com/user-attachments/assets/f76e9d58-b2b8-4f10-9892-9ef8fe3f0a02) |
 |---|---|---|
 
-* If SDDM is not installed in your arch, Install & enable it. If Installed skip this part -
+1. If SDDM is not installed in your arch, Install & enable it. If Installed skip this part -
 ```
 sudo pacman -S sddm
-````
+```
 ```
 sudo systemctl enable sddm
 ```
 
-* To Install This Theme [Click Here](https://github.com/Ace-c/sddm-hyprenv-theme.git), and follow the guide.
+2. To Install This Theme [Click Here](https://github.com/Ace-c/sddm-hyprenv-theme.git).
 
 
-2. GRUB Theme -
-```
+## GRUB Theme -
 
-```
-> **Brainless guide to install this GRUB theme, just [Follow this Guide](https://github.com/Ace-c/grub-vimix-theme.git)**
+To Install this theme [Go To](https://github.com/Ace-c/grub-vimix-theme.git).
 
 
 &nbsp;
