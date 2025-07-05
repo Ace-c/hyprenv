@@ -81,14 +81,15 @@ chmod +x install.sh && ./install.sh
 
 ## Firefox :
 -  Install This [Firefox-Theme](https://github.com/EliverLara/firefox-nordic-theme#installation-script)
--  Theme For Firefox [New-Tab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
+-  And also this beautiful [New-Tab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/) Extension.
 
 > [!NOTE]
 > To sync firefox theme with system theme, You need to change firefox theme location in script `switch7.sh`.
-
+> 
+> Config File for New-Tab Extension, Download it & import it in extension
 
 ## Neovim :
-*  Install [NvChad](https://nvchad.com/docs/quickstart/install) Distro.
+Install [NvChad](https://nvchad.com/docs/quickstart/install) .
 
 
 &nbsp;
@@ -146,5 +147,9 @@ sudo systemctl enable sddm
 ## Hide|Unhide Waybar :
 
 <kbd>Ctrl</kbd> + <kbd>Esc</kbd>
+
+## Launch Terminal :
+
+<kbd>Super</kbd> + <kbd>return</kbd>
 
 &nbsp;
