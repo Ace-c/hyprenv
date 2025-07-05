@@ -119,9 +119,9 @@ sudo systemctl enable sddm
 
 
 &nbsp;
-# Some Keybindings :
+# Some Keybindings 
 
-## Switch themes 
+## Switch themes :
      
 |  Theme Name    |Keybinds                                              |
 |----------------|------------------------------------------------------|
@@ -132,14 +132,14 @@ sudo systemctl enable sddm
 |Nord            | <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>n</kbd>   |
 
 
-## Switch Workspace 
+## Switch Workspace :
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>←</kbd><kbd>→</kbd>
 
-## Switch Waybar Style 
+## Switch Waybar Style :
 
 <kbd>Super</kbd> + <kbd>Alt</kbd> + <kbd>↑</kbd><kbd>↓</kbd>
 
-## Hide|Unhide Waybar 
+## Hide|Unhide Waybar :
 
 <kbd>Ctrl</kbd> + <kbd>Esc</kbd>
 
