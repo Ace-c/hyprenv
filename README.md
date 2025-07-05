@@ -44,7 +44,7 @@ sudo pacman -S --needed hyprland waybar rofi-wayland libnotify dunst swww xdg-de
 yay -S --needed qt5-styleplugins hyprshade wlogout visual-studio-code-bin qimgv oh-my-zsh-git zsh-syntax-highlighting-git zsh-autosuggestions-git ttf-material-design-icons-git
 ```
 > [!important]
-> To Install From `yay`, You Need To [Install yay](https://github.com/Jguer/yay?tab=readme-ov-file#source) First.
+> To Install From `yay`, You first need to [Install yay](https://github.com/Jguer/yay?tab=readme-ov-file#source).
 
 ## Fonts to Install :
 
@@ -75,37 +75,42 @@ chmod +x install.sh && ./install.sh
 - [ ] Everblush
 
 ## Neovim :
-- [ ] [NvChad](https://nvchad.com/docs/quickstart/install) Theme
+- [ ] Install [NvChad](https://nvchad.com/docs/quickstart/install)
 
 ## Firefox:
 - [ ] [Firefox-Theme](https://github.com/EliverLara/firefox-nordic-theme)
-- [ ] [New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
-
-> [!IMPORTANT]
-> Change the location of firefox (dark.css file) in script **Switch7**
+- [ ] Firefox [New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
 &nbsp;
 
 # SDDM & GRUB Theming :
-## SDDM Theme -
+## SDDM Theme 
 
 | ![Image 1](https://github.com/user-attachments/assets/63055107-c1e1-481b-9f55-58bb22a1db38) | ![Image 2](https://github.com/user-attachments/assets/cf0c8fe1-8698-40f9-a808-161ae67ad245) | ![Image 4](https://github.com/user-attachments/assets/f76e9d58-b2b8-4f10-9892-9ef8fe3f0a02) |
 |---|---|---|
 
+<pre>
 1. If SDDM is not installed in your arch, Install & enable it. If Installed skip this part -
-```
+
 sudo pacman -S sddm
-```
-```
 sudo systemctl enable sddm
-```
 
 2. To Install This Theme [Click Here](https://github.com/Ace-c/sddm-hyprenv-theme.git).
+</pre>
 
 
-## GRUB Theme -
+## GRUB Theme 
 
-To Install this theme [Go To](https://github.com/Ace-c/grub-vimix-theme.git).
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/115946bd-191d-413e-b234-45ca950d1226" alt="Image" width="150"/>
+    </td>
+    <td>
+      <p>To Install this theme [Go To](https://github.com/Ace-c/grub-vimix-theme.git)</p>
+    </td>
+  </tr>
+</table>
 
 
 &nbsp;
