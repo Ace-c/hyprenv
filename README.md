@@ -44,7 +44,7 @@ sudo pacman -S --needed hyprland waybar rofi-wayland libnotify dunst swww xdg-de
 yay -S --needed qt5-styleplugins hyprshade wlogout visual-studio-code-bin qimgv oh-my-zsh-git zsh-syntax-highlighting-git zsh-autosuggestions-git ttf-material-design-icons-git
 ```
 > [!important]
-> To Install From `yay`, You Need To [Install yay(AUR Helper)](https://github.com/Jguer/yay?tab=readme-ov-file#source) First
+> To Install From `yay`, You Need To [Install yay](https://github.com/Jguer/yay?tab=readme-ov-file#source) First.
 
 ## Fonts to Install :
 
@@ -60,7 +60,7 @@ git clone https://github.com/Ace-c/hyprenv.git && cd hyprenv
 chmod +x install.sh && ./install.sh
 ```
 > [!CAUTION]
-> Backup is advised if you're not installing it on fresh vanilla arch.
+> Backup is advised if you're not installing it on fresh vanilla arch. At least backup your config files.
 
 
 &nbsp;
