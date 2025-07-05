@@ -67,6 +67,13 @@ chmod +x install.sh && ./install.sh
 
 # Required Themes for Applications 
 
+> [!TIP]
+> If you want to Install different themes, then you have to do changes in script file located in `~/.config/hypr/scripts/`
+> 
+> Edit `switch4.sh` script file to change vs-code themes
+> 
+> Edit `switch7.sh` to change Firefox and Neovim theme
+ 
 ## Visual studio code :
 - [ ] Dracula Clean
 - [ ] Gruvbox dark medium
