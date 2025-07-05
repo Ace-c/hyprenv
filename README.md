@@ -108,10 +108,10 @@ sudo systemctl enable sddm
 
 <table width="100%">
   <tr>
-    <td width="40%">
+    <td width="30%">
       <img src="https://github.com/user-attachments/assets/115946bd-191d-413e-b234-45ca950d1226" alt="Image" width="100%"/>
     </td>
-    <td width="60%">
+    <td width="70%">
       <p>To Install this grub theme <a href="https://github.com/Ace-c/grub-vimix-theme.git">Follow this guide</a> </p>
     </td>
   </tr>
