@@ -44,7 +44,7 @@ sudo pacman -S --needed hyprland waybar rofi-wayland libnotify dunst swww xdg-de
 yay -S --needed qt5-styleplugins hyprshade wlogout visual-studio-code-bin qimgv oh-my-zsh-git zsh-syntax-highlighting-git zsh-autosuggestions-git ttf-material-design-icons-git
 ```
 > [!important]
-> To Install from yay, you need to install yay(AUR helper) first
+> To Install from yay, you need to [install yay(AUR helper)](https://github.com/Jguer/yay?tab=readme-ov-file#source) first
 
 ## Fonts to Install :
 
