@@ -85,8 +85,6 @@ chmod +x install.sh && ./install.sh
 
 > [!NOTE]
 > To sync firefox theme with system theme, You need to change firefox theme location in script `switch7.sh`.
-> 
-> Config File for New-Tab Extension, Download it & import it in extension
 
 ## Neovim :
 Install [NvChad](https://nvchad.com/docs/quickstart/install) .
@@ -94,10 +92,10 @@ Install [NvChad](https://nvchad.com/docs/quickstart/install) .
 
 &nbsp;
 
-# SDDM & GRUB Theming 
-## SDDM Theme :
+## SDDM & GRUB Theming 
+### SDDM Theme :
 
-| ![Image 1](https://github.com/user-attachments/assets/63055107-c1e1-481b-9f55-58bb22a1db38) | ![Image 2](https://github.com/user-attachments/assets/cf0c8fe1-8698-40f9-a808-161ae67ad245) | ![Image 4](https://github.com/user-attachments/assets/f76e9d58-b2b8-4f10-9892-9ef8fe3f0a02) |
+| ![Image 1](https://github.com/user-attachments/assets/63055107-c1e1-481b-9f55-58bb22a1db38) | ![Image 4](https://github.com/user-attachments/assets/f76e9d58-b2b8-4f10-9892-9ef8fe3f0a02) | ![Image 2](https://github.com/user-attachments/assets/cf0c8fe1-8698-40f9-a808-161ae67ad245) |
 |---|---|---|
 
 <pre>
@@ -109,7 +107,7 @@ sudo systemctl enable sddm
 2. To install this theme <a href="https://github.com/Ace-c/sddm-hyprenv-theme.git">Click Here</a>.
 </pre>
 
-## GRUB Theme :
+### GRUB Theme :
 
 <table width="100%">
   <tr>
