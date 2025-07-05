@@ -91,23 +91,22 @@ chmod +x install.sh && ./install.sh
 
 <pre>
 1. If SDDM is not installed in your arch, Install & enable it. If Installed skip this part -
-
+    
 sudo pacman -S sddm
 sudo systemctl enable sddm
-
-2. To Install This Theme [Click Here](https://github.com/Ace-c/sddm-hyprenv-theme.git).
+    
+2. To install this theme <a href="https://github.com/Ace-c/sddm-hyprenv-theme.git">Click Here</a>.
 </pre>
-
 
 ## GRUB Theme 
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/115946bd-191d-413e-b234-45ca950d1226" alt="Image" width="150"/>
+    <td width="40%">
+      <img src="https://github.com/user-attachments/assets/115946bd-191d-413e-b234-45ca950d1226" alt="Image" width="100%"/>
     </td>
-    <td>
-      <p>To Install this theme [Go To](https://github.com/Ace-c/grub-vimix-theme.git)</p>
+    <td width="60%">
+      <p>To Install this grub theme <a href="https://github.com/Ace-c/grub-vimix-theme.git">Click Here</a> </p>
     </td>
   </tr>
 </table>
