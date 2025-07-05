@@ -38,7 +38,7 @@
 
 ## Packages to Install :
 ```
-sudo pacman -S --needed hyprland waybar rofi-wayland libnotify dunst swww xdg-desktop-portal-hyprland hyprshot hyprlock cliphist nwg-look qt5-wayland qt6-wayland qt5ct qt6ct kvantum kvantum-qt5 network-manager-applet brightnessctl udiskie pacman-contrib jq pipewire-audio pipewire-alsa pipewire-jack pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer mpv playerctl kitty btop glances cava pcmanfm-qt lxqt-policykit gvfs ark git neovim firefox okular
+sudo pacman -S --needed hyprland waybar rofi-wayland libnotify dunst swww xdg-desktop-portal-hyprland hyprshot hyprlock cliphist nwg-look qt5-wayland qt6-wayland qt5ct qt6ct kvantum kvantum-qt5 network-manager-applet udiskie pacman-contrib jq pipewire-audio pipewire-alsa pipewire-jack pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer mpv playerctl kitty btop glances cava pcmanfm-qt lxqt-policykit gvfs ark git neovim firefox okular
 ```
 ```
 yay -S --needed qt5-styleplugins hyprshade wlogout visual-studio-code-bin qimgv oh-my-zsh-git zsh-syntax-highlighting-git zsh-autosuggestions-git ttf-material-design-icons-git
@@ -87,9 +87,16 @@ chmod +x install.sh && ./install.sh
 &nbsp;
 ## SDDM & GRUB Theming :
 1. SDDM Theme -
-```
-https://github.com/Ayu-0/sddm-hyprenv-theme.git
-```
+
+| ![Image 1](https://github.com/user-attachments/assets/63055107-c1e1-481b-9f55-58bb22a1db38) | ![Image 2](https://github.com/user-attachments/assets/cf0c8fe1-8698-40f9-a808-161ae67ad245) |
+|---|---|
+| ![Image 3](https://github.com/user-attachments/assets/baefb8a1-14f3-4940-a8db-484a0153845d) | ![Image 4](https://github.com/user-attachments/assets/f76e9d58-b2b8-4f10-9892-9ef8fe3f0a02) |
+|---|---|
+
+
+To Install this Theme [click here](https://github.com/Ace-c/sddm-hyprenv-theme.git)
+
+
 3. GRUB Theme -
 ```
 https://github.com/Ace-c/grub-vimix-theme.git
