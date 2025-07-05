@@ -80,8 +80,8 @@ chmod +x install.sh && ./install.sh
 - [ ] Everblush
 
 ## Firefox :
--  [Firefox-Theme](https://github.com/EliverLara/firefox-nordic-theme#installation-script)
--  Firefox [New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
+-  Install This [Firefox-Theme](https://github.com/EliverLara/firefox-nordic-theme#installation-script)
+-  Theme For Firefox [New-Tab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
 > [!NOTE]
 > To sync firefox theme with system theme, You need to change firefox theme location in script `switch7.sh`.
