@@ -78,7 +78,7 @@ chmod +x install.sh && ./install.sh
 - [ ] Install [NvChad](https://nvchad.com/docs/quickstart/install)
 
 ## Firefox:
-- [ ] [Firefox-Theme](https://github.com/EliverLara/firefox-nordic-theme)
+- [ ] [Firefox-Theme](https://github.com/EliverLara/firefox-nordic-theme#installation-script)
 - [ ] Firefox [New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
 &nbsp;
