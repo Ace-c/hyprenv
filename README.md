@@ -44,7 +44,7 @@ sudo pacman -S --needed hyprland waybar rofi-wayland libnotify dunst swww xdg-de
 yay -S --needed qt5-styleplugins hyprshade wlogout visual-studio-code-bin qimgv oh-my-zsh-git zsh-syntax-highlighting-git zsh-autosuggestions-git ttf-material-design-icons-git
 ```
 > [!important]
-> To Install From `yay`, You Need To [Install yay](https://github.com/Jguer/yay?tab=readme-ov-file#source) First.
+> To Install From `yay`, You Need To [Install yay](https://github.com/Jguer/yay?tab=readme-ov-file#source) First. Or, If you want to install from paru then just replace yay with paru.
 
 ## Fonts to Install :
 
