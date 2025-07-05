@@ -79,12 +79,13 @@ chmod +x install.sh && ./install.sh
 - [ ] Everforest Dark
 - [ ] Everblush
 
-## Neovim :
-- [ ] Install [NvChad](https://nvchad.com/docs/quickstart/install)
-
 ## Firefox:
-- [ ] [Firefox-Theme](https://github.com/EliverLara/firefox-nordic-theme#installation-script)
-- [ ] Firefox [New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
+-  [Firefox-Theme](https://github.com/EliverLara/firefox-nordic-theme#installation-script)
+-  Firefox [New-Tab Extenstion](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
+
+## Neovim :
+*  Install [NvChad](https://nvchad.com/docs/quickstart/install) Distro.
+
 
 &nbsp;
 
@@ -107,10 +108,10 @@ sudo systemctl enable sddm
 
 <table width="100%">
   <tr>
-    <td width="30%">
+    <td width="40%">
       <img src="https://github.com/user-attachments/assets/115946bd-191d-413e-b234-45ca950d1226" alt="Image" width="100%"/>
     </td>
-    <td width="70%">
+    <td width="60%">
       <p>To Install this grub theme <a href="https://github.com/Ace-c/grub-vimix-theme.git">Follow this guide</a> </p>
     </td>
   </tr>
