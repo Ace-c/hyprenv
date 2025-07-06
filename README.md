@@ -104,7 +104,7 @@ Install [NvChad](https://nvchad.com/docs/quickstart/install) .
 sudo pacman -S sddm
 sudo systemctl enable sddm
   
-2. To install this theme <a href="https://github.com/Ace-c/sddm-hyprenv-theme.git">Click Here</a>.
+2. To install this theme <a href="https://github.com/Ace-c/sddm-hyprenv-theme#installation-">Click Here</a>.
 </pre>
 
 ### GRUB Theme :
@@ -115,7 +115,7 @@ sudo systemctl enable sddm
       <img src="https://github.com/user-attachments/assets/115946bd-191d-413e-b234-45ca950d1226" alt="Image" width="100%"/>
     </td>
     <td width="70%">
-      <p>To Install this grub theme <a href="https://github.com/Ace-c/grub-vimix-theme.git">Follow this guide</a> </p>
+      <p>To Install this grub theme <a href="https://github.com/Ace-c/grub-vimix-theme/blob/master/README.md#manual-installation-">Follow this guide</a> </p>
     </td>
   </tr>
 </table>
