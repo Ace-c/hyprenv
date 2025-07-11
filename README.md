@@ -65,7 +65,7 @@ chmod +x install.sh && ./install.sh
 
 &nbsp;
 
-# Installing Following Themes for Applications 
+# Install Following Themes for Applications 
 
 > [!TIP]
 > If you want to install different themes and also sync them with the system, then you need to make changes to the script file located in `~/.config/hypr/scripts/`
