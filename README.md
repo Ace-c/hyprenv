@@ -44,7 +44,7 @@ sudo pacman -S --needed hyprland waybar rofi-wayland libnotify dunst swww imagem
 yay -S --needed qt5-styleplugins hyprshade wlogout visual-studio-code-bin qimgv oh-my-zsh-git zsh-syntax-highlighting-git zsh-autosuggestions-git ttf-material-design-icons-git
 ```
 > [!important]
-> To Install From `yay`, You first need to [Install yay](https://github.com/Jguer/yay?tab=readme-ov-file#source).
+> To Install From `yay`, You First Need To [Install yay](https://github.com/Jguer/yay?tab=readme-ov-file#source).
 
 ## Fonts to Install :
 
@@ -92,22 +92,8 @@ Install [NvChad](https://nvchad.com/docs/quickstart/install) .
 
 &nbsp;
 
-## SDDM & GRUB Theming 
-### SDDM Theme :
 
-| ![Image 1](https://github.com/user-attachments/assets/63055107-c1e1-481b-9f55-58bb22a1db38) | ![Image 4](https://github.com/user-attachments/assets/f76e9d58-b2b8-4f10-9892-9ef8fe3f0a02) | ![Image 2](https://github.com/user-attachments/assets/cf0c8fe1-8698-40f9-a808-161ae67ad245) |
-|---|---|---|
-
-<pre>
-1. If SDDM is not installed in your arch, Install & enable it.
-   
-sudo pacman -S sddm
-sudo systemctl enable sddm
-  
-2. To install this theme <a href="https://github.com/Ace-c/sddm-hyprenv-theme#installation-">Click Here</a>.
-</pre>
-
-### GRUB Theme :
+## GRUB Theme :
 
 <table width="100%">
   <tr>
