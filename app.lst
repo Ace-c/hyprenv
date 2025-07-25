@@ -21,7 +21,7 @@ polkit-lxqt                                            # authentication agent
 gvfs                                                   # Provide mounting and trash functionality
 
 # --------------------------------------------------- // Display Manager
-sddm                                                   # display manager for KDE plasma
+ly                                                     # TUI display manager
 
 # --------------------------------------------------- // Window Manager & Ecosystem
 hyprland                                               # wayland compositor
@@ -36,6 +36,7 @@ libnotify                                              # for notifications
 hyprshot                                               # Screenshot
 hyprshade                                              # Used for Blue-light filter
 hyprlock                                               # Screen lock for hyprland
+hypridle                                               # idle management daemon
 
 # --------------------------------------------------- // Theming
 nwg-look                                               # gtk3 configuration tool
@@ -50,8 +51,8 @@ qt6-wayland                                            # wayland support in qt6
 # --------------------------------------------------- // Applications
 qimgv                                                  # Image viewer
 mpv                                                    # Media player
-visual-studio-code & Neovim                            # Code editor     
+visual-studio-code & Neovim                            # Code/text editor     
 Firefox                                                # Browser
 Kitty                                                  # Terminal
-Okular                                                 # Pdf & ebook-Reader
+Zathura                                                # Pdf & ebook-Reader
 PCManFM-Qt                                             # File Manager
