@@ -102,7 +102,7 @@ fi
 cp .zshrc ~/
 echo "Copied new .zshrc"
 
-# 6. Change shell to zsh
+# Change shell to zsh
 current_shell=$(getent passwd "$USER" | cut -d: -f7)
 if [[ "$current_shell" != *zsh ]]; then
     echo "Changing default shell to Zsh..."
