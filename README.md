@@ -14,7 +14,7 @@
 
 ## Packages to Install :
 ```
-sudo pacman -S --needed hyprland waybar rofi-wayland libnotify dunst swww imagemagick xdg-desktop-portal-hyprland hyprshot hyprlock hypridle cliphist nwg-look qt5-wayland qt6-wayland qt5ct qt6ct kvantum kvantum-qt5 network-manager-applet bluez bluez-utils blueman udiskie pacman-contrib jq brightnessctl pipewire-audio pipewire-alsa pipewire-jack pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer mpv playerctl kitty btop glances cava pcmanfm-qt lxqt-policykit gvfs tar zstd git neovim zathura zathura-pdf-mupdf ly ranger firefox amberol
+sudo pacman -S --needed hyprland waybar rofi-wayland libnotify dunst swww imagemagick xdg-desktop-portal-hyprland hyprshot hyprlock hypridle cliphist nwg-look qt5-wayland qt6-wayland qt5ct qt6ct kvantum kvantum-qt5 network-manager-applet bluez bluez-utils blueman udiskie pacman-contrib jq brightnessctl pipewire-audio pipewire-alsa pipewire-jack pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer mpv playerctl kitty btop glances cava pcmanfm-qt lxqt-policykit gvfs tar zstd git neovim zathura zathura-pdf-mupdf ly ranger amberol
 ```
 ```
 yay -S --needed qt5-styleplugins hyprshade wlogout visual-studio-code-bin qimgv-git oh-my-zsh-git zsh-syntax-highlighting-git zsh-autosuggestions-git
@@ -46,7 +46,7 @@ chmod +x install.sh && ./install.sh
 > [!TIP]
 > If you want to install different themes and also sync them with the system, then you need to make changes to the script file located in `~/.config/hypr/scripts/`
 > * Visual-studio-code Themes are in `switch4.sh` script file
-> * Firefox & Neovim Themes are in `switch7.sh` script file
+> * Neovim Themes are in `switch7.sh` script file
  
 ## Visual studio code :
 - [ ] Dracula Clean
@@ -54,13 +54,6 @@ chmod +x install.sh && ./install.sh
 - [ ] Nord
 - [ ] Everforest Dark
 - [ ] Everblush
-
-## Firefox :
--  Install This [Firefox-Theme](https://github.com/EliverLara/firefox-nordic-theme#installation-script)
--  And also this beautiful [New-Tab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/) Extension.
-
-> [!NOTE]
-> To sync firefox theme with system theme, You need to change firefox theme location in script `switch7.sh`.
 
 ## Neovim :
 Install [NvChad](https://nvchad.com/docs/quickstart/install) .
