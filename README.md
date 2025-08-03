@@ -56,7 +56,7 @@ chmod +x install.sh && ./install.sh
 - [ ] Everblush
 
 ## Neovim :
-Install [NvChad Distro](https://nvchad.com/docs/quickstart/install) .
+Install neovim distributions [NvChad](https://nvchad.com/docs/quickstart/install) 
 ```
 git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 ```
