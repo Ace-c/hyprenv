@@ -1,0 +1,39 @@
+# Gruvbox Theme
+set default-fg                  rgba(235,219,178,1)     
+set default-bg                  rgba(40,40,40,1)       
+
+set completion-bg               rgba(60,56,54,1)
+set completion-fg               rgba(235,219,178,1)
+set completion-highlight-bg     rgba(102,92,84,1)
+set completion-highlight-fg     rgba(235,219,178,1)
+set completion-group-bg         rgba(60,56,54,1)
+set completion-group-fg         rgba(184,187,38,1)    
+
+set statusbar-fg                rgba(235,219,178,1)
+set statusbar-bg                rgba(60,56,54,1)
+
+set notification-bg             rgba(60,56,54,1)
+set notification-fg             rgba(235,219,178,1)
+set notification-error-bg       rgba(60,56,54,1)
+set notification-error-fg       rgba(251,73,52,1)      
+set notification-warning-bg     rgba(60,56,54,1)
+set notification-warning-fg     rgba(254,128,25,1)      
+
+set inputbar-fg                 rgba(235,219,178,1)
+set inputbar-bg                 rgba(40,40,40,1)
+
+set recolor                     "true"
+set recolor-lightcolor          rgba(40,40,40,1)        
+set recolor-darkcolor           rgba(235,219,178,1)     
+
+set index-fg                    rgba(235,219,178,1)
+set index-bg                    rgba(29,32,33,1)
+set index-active-fg             rgba(235,219,178,1)
+set index-active-bg             rgba(80,73,69,1)
+
+set render-loading-bg           rgba(29,32,33,1)
+set render-loading-fg           rgba(235,219,178,1)
+
+set highlight-color             rgba(102,92,84,0.6)
+set highlight-fg                rgba(235,219,178,0.8)
+set highlight-active-color      rgba(131,165,152,0.7)    

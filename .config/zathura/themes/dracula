@@ -1,0 +1,39 @@
+# Dracula Theme
+set default-fg                  rgba(248,248,242,1)     
+set default-bg                  rgba(40,42,54,1)        
+
+set completion-bg               rgba(68,71,90,1)       
+set completion-fg               rgba(248,248,242,1)
+set completion-highlight-bg     rgba(98,114,164,1)      
+set completion-highlight-fg     rgba(248,248,242,1)
+set completion-group-bg         rgba(68,71,90,1)
+set completion-group-fg         rgba(139,233,253,1)  
+
+set statusbar-fg                rgba(248,248,242,1)
+set statusbar-bg                rgba(68,71,90,1)
+
+set notification-bg             rgba(68,71,90,1)
+set notification-fg             rgba(248,248,242,1)
+set notification-error-bg       rgba(68,71,90,1)
+set notification-error-fg       rgba(255,85,85,1)      
+set notification-warning-bg     rgba(68,71,90,1)
+set notification-warning-fg     rgba(241,250,140,1)    
+
+set inputbar-fg                 rgba(248,248,242,1)
+set inputbar-bg                 rgba(40,42,54,1)
+
+set recolor                     "true"
+set recolor-lightcolor          rgba(40,42,54,1)        
+set recolor-darkcolor           rgba(235,235,237,1)    
+
+set index-fg                    rgba(248,248,242,1)
+set index-bg                    rgba(30,31,41,1)
+set index-active-fg             rgba(248,248,242,1)
+set index-active-bg             rgba(68,71,90,1)
+
+set render-loading-bg           rgba(30,31,41,1)
+set render-loading-fg           rgba(248,248,242,1)
+
+set highlight-color             rgba(98,114,164,0.5)
+set highlight-fg                rgba(248,248,242,0.8)
+set highlight-active-color      rgba(189,147,249,0.7)  

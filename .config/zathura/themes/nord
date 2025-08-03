@@ -1,0 +1,39 @@
+# Nord Theme
+set default-fg                  rgba(236,239,244,1)     
+set default-bg                  rgba(46,52,64,1)        
+
+set completion-bg               rgba(59,66,82,1)       
+set completion-fg               rgba(236,239,244,1)
+set completion-highlight-bg     rgba(76,86,106,1)      
+set completion-highlight-fg     rgba(236,239,244,1)
+set completion-group-bg         rgba(59,66,82,1)
+set completion-group-fg         rgba(143,188,187,1)    
+
+set statusbar-fg                rgba(236,239,244,1)
+set statusbar-bg                rgba(59,66,82,1)
+
+set notification-bg             rgba(59,66,82,1)
+set notification-fg             rgba(236,239,244,1)
+set notification-error-bg       rgba(59,66,82,1)
+set notification-error-fg       rgba(191,97,106,1)    
+set notification-warning-bg     rgba(59,66,82,1)
+set notification-warning-fg     rgba(235,203,139,1)    
+
+set inputbar-fg                 rgba(236,239,244,1)
+set inputbar-bg                 rgba(46,52,64,1)
+
+set recolor                     "true"
+set recolor-lightcolor          rgba(46,52,64,1)        
+set recolor-darkcolor           rgba(255,255,255,1)       
+
+set index-fg                    rgba(236,239,244,1)
+set index-bg                    rgba(40,44,52,1)
+set index-active-fg             rgba(236,239,244,1)
+set index-active-bg             rgba(67,76,94,1)       
+
+set render-loading-bg           rgba(40,44,52,1)
+set render-loading-fg           rgba(236,239,244,1)
+
+set highlight-color             rgba(76,86,106,0.5)
+set highlight-fg                rgba(236,239,244,0.8)
+set highlight-active-color      rgba(129,161,193,0.7)    
