@@ -65,7 +65,7 @@ git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 &nbsp;
 
 
-## GRUB Theme :
+## Grub Theme :
 
 <table width="100%">
   <tr>
