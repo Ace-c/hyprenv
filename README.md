@@ -4,6 +4,7 @@
     Everblush | Everforest | Gruvbox | Dracula | Nord 
 
 
+<img width="1920" height="1080" alt="2025-07-23-164034_hyprshot" src="https://github.com/user-attachments/assets/4665c76d-a436-428b-94b4-c8e912ac1ac0" />
 
 
 &nbsp;
