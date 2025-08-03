@@ -56,3 +56,4 @@ Firefox                                                # Browser
 Kitty                                                  # Terminal
 Zathura                                                # Pdf & ebook-Reader
 PCManFM-Qt                                             # File Manager
+fastfetch                                              # neofetch-like tool for fetching system info
