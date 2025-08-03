@@ -44,9 +44,9 @@ chmod +x install.sh && ./install.sh
 # Install Following Themes for Applications 
 
 > [!TIP]
-> If you want to install different themes and also sync them with the system, then you need to make changes to the script file located in `~/.config/hypr/scripts/`
-> * Visual-studio-code Themes are in `switch4.sh` script file
-> * Neovim Themes are in `switch7.sh` script file
+> If you want to add/remove themes, then you need to make changes to the script file `switch1 to switch7` located in `~/.config/hypr/scripts/`
+> * Hyprland, GTK & QT Theme Implentation in `switch1 & 2` 
+> * Visual-studio-code Themes are in `switch4.sh` & Neovim Themes are in `switch7.sh` script file
  
 ## Visual studio code :
 - [ ] Dracula Clean
