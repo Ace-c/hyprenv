@@ -10,12 +10,12 @@ import sys
 ### CONSTANTS ###
 
 # api key - get it at https://openweathermap.org/
-API_KEY = '46d1a7a336e50ffdfc64687ff7381b93'
+API_KEY = ''
 
 # latitude and longitude of the city you want to query
 # can be obtained through `./weather.py geocoding <city[,state,country]>`
-LATITUDE  = 25.5759
-LONGITUDE = 85.1545
+LATITUDE  = ''
+LONGITUDE = ''
 
 # waybar colors
 GRAY   = '#859289'
