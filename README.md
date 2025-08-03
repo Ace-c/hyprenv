@@ -44,9 +44,7 @@ chmod +x install.sh && ./install.sh
 # Install Following Themes for Applications 
 
 > [!TIP]
-> If you want to add/remove themes, then you need to make changes to the script file `switch1 to switch7` located in `~/.config/hypr/scripts/`. Also you need to install listed themes for apps to make it sync with system
-> * Hyprland, GTK & QT Theme Implentation in `switch1 & 2` 
-> * Visual-studio-code Themes are in `switch4.sh` & Neovim Themes are in `switch7.sh` script file
+> If you want to add/remove themes, then you need to make changes to the script file `switch1 to switch7` located in **~/.config/hypr/scripts/**. Also you need to install listed themes for apps to make it sync with system
  
 ## Visual studio code :
 - [ ] Dracula Clean
@@ -60,9 +58,9 @@ Install neovim distributions [NvChad](https://nvchad.com/docs/quickstart/install
 ```
 git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 ```
-- Run `:MasonInstallAll` command after lazy.nvim finishes downloading plugins.
-- Delete the `.git` folder from nvim folder
-- To update run `Lazy sync` command
+> * Run `:MasonInstallAll` command after lazy.nvim finishes downloading plugins.
+> * Delete the `.git` folder from nvim folder
+> * To update run `Lazy sync` command
 
 &nbsp;
 
