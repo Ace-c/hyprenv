@@ -56,8 +56,13 @@ chmod +x install.sh && ./install.sh
 - [ ] Everblush
 
 ## Neovim :
-Install [NvChad](https://nvchad.com/docs/quickstart/install) .
-
+Install [NvChad Distro](https://nvchad.com/docs/quickstart/install) .
+```
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+```
+- Run `:MasonInstallAll` command after lazy.nvim finishes downloading plugins.
+- Delete the `.git` folder from nvim folder
+- To update run `Lazy sync` command
 
 &nbsp;
 
