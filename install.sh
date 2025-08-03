@@ -112,3 +112,37 @@ else
     echo "Shell is already Zsh."
 fi
 
+echo
+echo "Choose a theme to apply:"
+echo "  [e] Everforest"
+echo "  [b] Everblush"
+echo "  [d] Dracula"
+echo "  [g] Gruvbox"
+echo "  [n] Nord"
+read -rp "Enter your choice [e/b/d/g/n]: " theme_choice
+
+case "$theme_choice" in
+    e|E)
+        echo "Switching to Everforest..."
+        ~/.config/hypr/scripts/switchmaster.sh -e
+        ;;
+    b|B)
+        echo "Switching to Everblush..."
+        ~/.config/hypr/scripts/switchmaster.sh -b
+        ;;
+    d|D)
+        echo "Switching to Dracula..."
+        ~/.config/hypr/scripts/switchmaster.sh -d
+        ;;
+    g|G)
+        echo "Switching to Gruvbox..."
+        ~/.config/hypr/scripts/switchmaster.sh -g
+        ;;
+    n|N)
+        echo "Switching to Nord..."
+        ~/.config/hypr/scripts/switchmaster.sh -n
+        ;;
+    *)
+        echo "Invalid choice. Skipping theme switch."
+        ;;
+esac
