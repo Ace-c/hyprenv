@@ -107,7 +107,7 @@ current_shell=$(getent passwd "$USER" | cut -d: -f7)
 if [[ "$current_shell" != *zsh ]]; then
     echo "Changing default shell to Zsh..."
     chsh -s "$(which zsh)"
-    echo "Shell changed to Zsh. Please log out and log back in for the change to take effect."
+    echo "Shell changed to Zsh."
 else
     echo "Shell is already Zsh."
 fi
