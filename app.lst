@@ -52,7 +52,7 @@ qt6-wayland                                            # wayland support in qt6
 qimgv                                                  # Image viewer
 mpv                                                    # Media player
 visual-studio-code & Neovim                            # Code/text editor     
-Firefox                                                # Browser
+Zen-Browser                                            # Browser
 Kitty                                                  # Terminal
 Zathura                                                # Pdf & ebook-Reader
 PCManFM-Qt                                             # File Manager
