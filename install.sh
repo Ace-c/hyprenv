@@ -112,6 +112,8 @@ else
     echo "Shell is already Zsh."
 fi
 
+
+# Select theme
 echo
 echo "Choose a theme to apply:"
 echo "  [e] Everforest"
