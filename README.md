@@ -50,9 +50,9 @@ chmod +x install.sh && ./install.sh
 ## Visual studio code :
 - [ ] Dracula Clean
 - [ ] Gruvbox dark medium
-- [ ] Nord
+- [ ] OneNord
 - [ ] Everforest Dark
-- [ ] Everblush
+- [ ] Github Dark
 
 ## Neovim :
 Install neovim distributions [NvChad](https://nvchad.com/docs/quickstart/install) 
