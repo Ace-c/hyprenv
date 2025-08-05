@@ -7,7 +7,7 @@
   "security.workspace.trust.untrustedFiles": "newWindow",
   "security.workspace.trust.startupPrompt": "never",
   "security.workspace.trust.enabled": false,
-  "editor.fontFamily": "'Maple Mono', 'monospace', monospace",
+  "editor.fontFamily": "'Maple Mono', 'monospace', Monaspace Radon Var",
   "extensions.autoUpdate": false,
   "workbench.statusBar.visible": false,
   "terminal.external.linuxExec": "kitty",
