@@ -45,7 +45,7 @@ chmod +x install.sh && ./install.sh
 # Install Following Themes for Applications 
 
 > [!TIP]
-> If you want to add/remove themes, then you need to make changes to the script file `switch1 to switch7` located in **~/.config/hypr/scripts/**. Also you need to install listed themes for apps to make it sync with system
+> If you want to add/remove themes, then you need to make changes to the script file `switch1 to switch7` located in **~/.config/hypr/scripts/**.
  
 ## Visual studio code :
 - [ ] Dracula Clean
