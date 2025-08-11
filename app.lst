@@ -34,7 +34,7 @@ cliphist                                               # clipboard manager
 xdg-desktop-portal-hyprland                            # xdg desktop portal for hyprland
 libnotify                                              # for notifications
 hyprshot                                               # Screenshot
-hyprshade                                              # Used for Blue-light filter
+hyprsunset                                             # Used for Blue-light filter
 hyprlock                                               # Screen lock for hyprland
 hypridle                                               # idle management daemon
 
