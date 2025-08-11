@@ -1,0 +1,19 @@
+@define-color background             #1e1f28;
+@define-color background2            #23242e;
+
+@define-color foreground             #c6c6d0;
+
+@define-color primary-container      #44475a;
+@define-color on-primary-container   #eaeaea;
+
+@define-color secondary-container    #44475a;
+@define-color on-secondary-container #eaeaea;
+
+@define-color workspace              #3e4153;
+@define-color workspace2             #4b4e62;
+@define-color workspace-active       #606278;
+
+@define-color outline                #d9d9e3;
+@define-color surface-variant        #ffffff;
+
+@define-color general                #eaeaea;
