@@ -1,0 +1,130 @@
+// Config //
+configuration {
+    modi:                        "drun,filebrowser,run,emoji";
+    show-icons:                  true;
+    display-drun:                "󪥔";
+    display-run:                 "󪥌";
+    display-filebrowser:         "󰉋";
+    display-emoji:               "󪤉";
+    drun-display-format:         "{name}";
+    window-format:               "{w}{t}";
+    font:                        "IBM Plex Sans 11"; 
+    icon-theme:                  "default";
+}
+
+@theme "~/.config/rofi/themes/theme.rasi"
+
+
+// Main //
+window {
+    height:                      531px;   
+    width:                       1026px;  
+    transparency:                "real";
+    fullscreen:                  false;
+    enabled:                     true;
+    cursor:                      "default";
+    spacing:                     0px;
+    padding:                     0px;
+    border:                      2px;    
+    border-radius:               5px;     
+    border-color:                @main-br;
+    background-color:            transparent;
+}
+mainbox {
+    enabled:                     true;
+    spacing:                     0px;
+    orientation:                 horizontal;
+    children:                    [  "inputbar" , "listbox" ];
+    background-color:            transparent;
+    background-image:            url("~/.config/swww/wall.blur", height);
+}
+
+
+// Inputs //
+inputbar {
+    enabled:                     true;
+    width:                       576px;  
+    children:                    [ "mode-switcher" , "entry" ];
+    background-color:            transparent;
+    background-image:            url("~/.config/swww/wall.rofi", height);
+}
+entry {
+    enabled:                     false;
+}
+
+
+// Modes //
+mode-switcher {
+    orientation:                 vertical;
+    enabled:                     true;
+    width:                       61px;  
+    padding:                     144px 9px 144px 9px; 
+    spacing:                     23px;   
+    background-color:            transparent;
+    background-image:            url("~/.config/swww/wall.blur", height);
+}
+button {
+    cursor:                      pointer;
+    vertical-align:              0.50;
+    horizontal-align:            0.45;
+    border-radius:               3px;   
+    background-color:            @main-bg;
+    text-color:                  @main-fg;
+}
+button selected {
+    background-color:            @main-fg;
+    text-color:                  @main-bg;
+}
+
+
+// Lists //
+listbox {
+    spacing:                     9px;    
+    padding:                     27px;   
+    children:                    [ "listview" ];
+    background-color:            @main-bg;
+}
+listview {
+    enabled:                     true;
+    columns:                     1;
+    cycle:                       true;
+    dynamic:                     true;
+    scrollbar:                   false;
+    layout:                      vertical;
+    reverse:                     false;
+    fixed-height:                true;
+    fixed-columns:               true;
+    cursor:                      "default";
+    background-color:            transparent;
+    text-color:                  @main-fg;
+}
+
+
+// Elements //
+element {
+    enabled:                     true;
+    spacing:                     27px;   
+    padding:                     7px 0px 7px 10px;  
+    border-radius:               5px;   
+    cursor:                      pointer;
+    background-color:            transparent;
+    text-color:                  @main-fg;
+}
+
+element selected.normal {
+    background-color:            @select-bg;
+    text-color:                  @select-fg;
+}
+element-icon {
+    size:                        51px;
+    cursor:                      inherit;
+    background-color:            transparent;
+    text-color:                  inherit;
+}
+element-text {
+    vertical-align:              0.5;
+    horizontal-align:            0.0;
+    cursor:                      inherit;
+    background-color:            transparent;
+    text-color:                  inherit;
+}
