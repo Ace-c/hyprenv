@@ -1,0 +1,93 @@
+[global]
+    ## Display 
+    monitor = 0
+    follow = none
+
+    ## Geometry 
+    width = 300
+    height = (0,150)
+    origin = top-right 
+    offset = (20, 20)  
+    notification_limit = 7
+
+    ## Progress bar
+    progress_bar = true
+    progress_bar_height = 10
+    progress_bar_frame_width = 0
+    progress_bar_min_width = 125
+    progress_bar_max_width = 250
+    progress_bar_corner_radius = 2
+    icon_corner_radius = 2
+    indicate_hidden = yes
+    transparency = 10
+    
+    ## Padding
+    padding = 8
+    horizontal_padding = 8
+    text_icon_padding = 10
+    frame_width = 1
+    gap_size = 10
+    separator_color = frame
+    separator_height = 7
+    sort = yes
+
+    ## Text
+    font = mononoki Nerd Font 8
+    line_height = 3
+    markup = full
+    format = "󰟪 %a\n<b>󰋑 %s</b>\n%b"
+    alignment = left
+    vertical_alignment = center
+    show_age_threshold = 5
+    ellipsize = middle
+    ignore_newline = no
+    stack_duplicates = true
+    hide_duplicate_count = false
+    show_indicators = yes
+
+    ## Icons
+    icon_theme = "Nordzy-turquoise-dark"
+    icon_position = left
+    min_icon_size = 30
+    max_icon_size = 130
+    icon_path = /home/ayu/.icons/Nordzy-turquoise-dark/status/16/:/home/ayu/.icons/Nordzy-turquoise-dark/devices/16
+
+    ## History
+    sticky_history = yes
+    history_length = 20
+
+    ## Misc
+    dmenu = /usr/bin/rofi -dmenu -p dunst:
+    browser = /usr/bin/xdg-open
+    always_run_script = true
+    title = Dunst
+    class = Dunst
+    corner_radius = 3
+    
+    ## Wayland
+    force_xwayland = false
+
+
+
+
+
+
+
+[urgency_low]
+background = "#2b3339"
+foreground = "#e9e6e1ff"
+frame_color = "#7a8478"
+timeout = 5
+
+[urgency_normal]
+background = "#1E2326"
+foreground = "#E5E6C5"
+highlight = "#a7c080"
+frame_color = "#4F5B58"
+timeout = 7
+
+[urgency_critical]
+background = "#f8555288"
+foreground = "#F4DBD0"
+frame_color = "#F85552"
+timeout = 15
