@@ -1,0 +1,47 @@
+
+set default-fg                    rgba(173,165,146,1)
+set default-bg                    rgba(35,42,46,1)
+
+# Completion menu
+set completion-bg                 rgba(35,42,46,1)
+set completion-fg                 rgba(173,165,146,1)
+set completion-highlight-bg       rgba(35,42,46,1)
+set completion-highlight-fg       rgba(173,165,146,1)
+set completion-group-bg           rgba(35,42,46,1)
+set completion-group-fg           rgba(127,187,179,1)
+
+# Status bar
+set statusbar-fg                  rgba(173,165,146,1)
+set statusbar-bg                  rgba(35,42,46,1)
+
+# Notifications
+set notification-bg               rgba(35,42,46,1)
+set notification-fg               rgba(173,165,146,1)
+set notification-error-bg         rgba(35,42,46,1)
+set notification-error-fg         rgba(230,126,128,1)
+set notification-warning-bg       rgba(35,42,46,1)
+set notification-warning-fg       rgba(219,188,127,1)
+
+# Input bar
+set inputbar-fg                   rgba(173,165,146,1)
+set inputbar-bg                   rgba(35,42,46,1)
+
+# Page Coloring
+set recolor                       "true"
+set recolor-lightcolor            rgba(35,42,46,0.4)
+set recolor-darkcolor             rgba(230,221,211,1)
+
+# Document index
+set index-fg                      rgba(173,165,146,1)
+set index-bg                      rgba(35,42,46,1)
+set index-active-fg               rgba(173,165,146,1)
+set index-active-bg               rgba(35,42,46,1)
+
+# Loading indicator
+set render-loading-bg             rgba(35,42,46,1)
+set render-loading-fg             rgba(173,165,146,1)
+
+# Text selection
+set highlight-color               rgba(55,63,67,0.7)
+set highlight-fg                  rgba(173,165,146,1)
+set highlight-active-color        rgba(127,187,179,0.7)
