@@ -1,0 +1,213 @@
+* {
+    border: none;
+    font-family: "Nunito" ;
+    font-size: 12px;
+    font-weight: 800;
+    min-height: 7px;
+}
+
+window#waybar {
+    background-color: @transparent;
+    border-radius: 0px;    
+    margin-top: 30px;
+}
+
+tooltip {
+    background: @background2;
+    color: @foreground;
+    border-radius: 2px;
+    border: 1px solid rgba(100, 114, 125, 0.5);
+    padding: 5px 10px;
+    margin: 0;
+}
+
+
+@import "colors.css";
+
+
+
+/* User Container style */
+
+box#user-container {
+    margin: 7px 10px 7px 10px;
+    padding: 3px 8px 3px 8px;
+    background-color: @primary-container;
+    border-radius: 2px;
+  }
+
+
+#cpu {
+    color: @on-primary-container;
+    font-size: 8px;
+}
+
+
+/* Style for workspace */
+
+#workspaces {
+    background: @workspace;
+    font-family: JetBrainsMono Nerd Font;
+    margin: 7px 10px 7px 10px;
+    padding: 0px 0px;
+    border-radius: 2px;
+}
+
+#workspaces button {
+    padding: 0px 6px;
+    margin: 1px 2px 1px 2px;
+    border-radius: 2px;
+    color: @outline;
+    background-color: @workspace2;
+    transition: all 0.1s linear;
+}
+
+#workspaces button.active {
+    color: @surface-variant;
+    background: @workspace-active;
+    border-radius: 2px;
+    min-width: 30px;
+    transition: all 0.1s linear;
+    opacity:1.0;
+}
+
+#workspaces button:hover {
+    color: @background;
+    background: @workspace2;
+    border-radius: 2px;
+    opacity:0.7;
+}
+
+
+/* Style for weather container */
+
+box#weather-container {
+    margin: 7px 8px 7px 8px;
+    padding: 3px 8px 3px 8px;
+    background-color: @primary-container;
+    color: @on-primary-container;
+    border-radius: 2px;
+  }
+  
+#custom-weather {
+    color: @on-primary-container;
+}  
+
+
+
+/* Style for pulseaudio */
+
+box#pulseaudio-container {
+    margin: 7px 8px 7px 8px;
+    padding: 3px 8px 3px 8px;
+    background-color: @primary-container;
+    border-radius: 2px;
+  }
+
+#pulseaudio {
+    color: @on-primary-container;
+   
+}
+
+/* Style for wlr taskbar */
+
+
+/* Current window in workspace style */
+
+#window {
+    background-color: @transparent;
+    color: @foreground;
+    font-size: 13px;
+}
+
+
+
+/* Style for update container */
+
+box#update-container {
+    margin: 7px 10px 7px 10px;
+    padding: 3px 8px 3px 8px;
+    background-color: @secondary-container;
+    color: @on-secondary-container;
+    border-radius: 2px;
+  }
+  
+  
+  label#custom-updates {
+
+  }
+  
+
+/* Style for cpuinfo container */  
+
+  box#cpuinfo-container {
+    margin: 7px 10px 7px 10px;
+    padding: 3px 8px 3px 8px;
+    background-color: @primary-container;
+    border-radius: 2px;
+  }
+  
+  
+  label#temperature {
+    color: @on-primary-container;
+  }
+  
+
+
+/* Style for memory-container */
+
+box#memory-container {
+    margin: 7px 10px 7px 10px;
+    padding: 3px 8px 3px 8px;
+    background-color: @primary-container;
+    border-radius: 2px;
+  }
+  
+  
+  label#memory {
+      color: @on-primary-container;
+  }
+
+  
+/* General Modules */ 
+
+label#custom-process {
+    padding-left: 4px;
+    padding-right: 5px;
+    font-size: 17px;
+    color: @general;
+}
+
+label#custom-stack {
+    padding-left: 5px;
+    padding-right: 10px;
+    font-size: 17px;
+    color: @general;
+}
+
+label#custom-power{
+    padding-left: 7px;
+    padding-right: 0px;
+    font-size: 17px;
+    color: @general;
+}
+
+#tray {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+/* Style for Clock container */
+
+box#clock-container {
+  margin: 7px 10px 7px 10px;
+  padding: 3px 10px 3px 10px;
+  background-color: @primary-container;
+  color: @on-primary-container;
+  border-radius: 2px;
+}
+
+
+label#clock {
+    
+}
