@@ -13,7 +13,6 @@ network-manager-applet                                 # network manager system 
 bluez                                                  # bluetooth protocol stack
 bluez-utils                                            # bluetooth utility cli
 blueman                                                # bluetooth manager gui
-brightnessctl                                          # screen brightness control
 udiskie                                                # manage removable media
 pacman-contrib                                         # for system update check
 jq                                                     # for json processing
@@ -57,3 +56,9 @@ Kitty                                                  # Terminal
 Zathura                                                # Pdf & ebook-Reader
 PCManFM-Qt                                             # File Manager
 fastfetch                                              # neofetch-like tool for fetching system info
+Qalculate                                              # calculator
+Amberol                                                # Music Player
+QOwnNotes                                              # Note-taking App
+PeaZip                                                 # Archive manager
+btop                                                   # Resource monitor
+glances                                                # Process monitor
