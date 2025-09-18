@@ -11,24 +11,24 @@
 
 
 
-# Brainless Installation Process For Vanilla Arch
-
-## Packages to Install :
+## 1. Manual Installation (Those who know what to do) :
+### Packages to Install :
 ```
 sudo pacman -S --needed hyprland waybar rofi-wayland libnotify dunst swww imagemagick xdg-desktop-portal-hyprland hyprshot hyprlock hypridle hyprsunset cliphist rofi-emoji nwg-look qt5-wayland qt6-wayland qt5ct qt6ct kvantum kvantum-qt5 network-manager-applet bluez bluez-utils blueman udiskie pacman-contrib jq pipewire-audio pipewire-alsa pipewire-jack pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer mpv playerctl kitty btop glances pcmanfm-qt lxqt-policykit gvfs tar zstd git neovim zathura zathura-pdf-mupdf ly ranger amberol fastfetch
 ```
 ```
 yay -S --needed qt5-styleplugins wlogout visual-studio-code-bin qimgv-git oh-my-zsh-git zsh-syntax-highlighting-git zsh-autosuggestions-git
 ```
-> [!important]
-> To Install From `yay`, You First Need To [Install yay](https://github.com/Jguer/yay?tab=readme-ov-file#source).
 
-## Fonts to Install :
+### Fonts to Install :
 
     sudo pacman -S --needed ttf-jetbrains-mono ttf-hack-nerd ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-font-awesome noto-fonts-emoji
 
 
-## Clone repository and run the script :
+## 2. Automatic Installation (Brainless Process) :
+
+> [!important]
+> You First Need To Install git `sudo pacman -S git`
 
 ```
 git clone https://github.com/Ace-c/hyprenv.git && cd hyprenv
