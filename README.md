@@ -42,17 +42,10 @@ chmod +x install.sh && ./install.sh
 
 &nbsp;
 
-# Install Following Themes for Applications 
+## Manually install these themes for applications 
 
 > [!TIP]
-> If you want to add/remove themes, then you need to make changes to the script file `switch1 to switch7` located in **~/.config/hypr/scripts/**.
- 
-## Visual studio code :
-- [ ] Dracula Clean
-- [ ] Gruvbox dark medium
-- [ ] OneNord
-- [ ] Everforest Dark
-- [ ] Github Dark
+> If you want to add/remove themes, then you need to make changes to the script file `switch1 to switch5` located in **~/.config/hypr/scripts/**.
 
 ## Neovim :
 Install neovim distribution [NvChad](https://nvchad.com/docs/quickstart/install) 
@@ -63,24 +56,17 @@ git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 > * Delete the `.git` folder from nvim folder
 > * To update run `Lazy sync` command
 
-&nbsp;
-
-
-## Grub Theme :
-
-<table width="100%">
-  <tr>
-    <td width="30%">
-      <img src="https://github.com/user-attachments/assets/115946bd-191d-413e-b234-45ca950d1226" alt="Image" width="100%"/>
-    </td>
-    <td width="70%">
-      <p>To Install this grub theme <a href="https://github.com/Ace-c/grub-vimix-theme/blob/master/README.md#manual-installation-">Follow this guide</a> </p>
-    </td>
-  </tr>
-</table>
+## Visual studio code (Install all listed themes):
+- [ ] Dracula Clean
+- [ ] Gruvbox dark medium
+- [ ] OneNord
+- [ ] Everforest Dark
+- [ ] Github Dark
 
 
 &nbsp;
+
+
 # Some Keybindings 
 
 ## Switch themes :
