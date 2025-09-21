@@ -45,7 +45,7 @@ chmod +x install.sh && ./install.sh
 ## Manually install these themes for applications 
 
 > [!TIP]
-> If you want to add/remove themes, then you need to make changes to the script file `switch1 to switch5` located in **~/.config/hypr/scripts/**.
+> If you want to add/remove themes, then you need to make changes in the script file `switch1 to switch5` located in **~/.config/hypr/scripts/**.
 
 ### Neovim :
 Install neovim distribution [NvChad](https://nvchad.com/docs/quickstart/install) 
