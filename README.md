@@ -28,7 +28,7 @@ yay -S --needed qt5-styleplugins wlogout visual-studio-code-bin qimgv-git oh-my-
 ## 2. Automatic Installation (Brainless Process) :
 
 > [!important]
-> You First Need To Install git `sudo pacman -S git`, then proceed to next step
+> You First Need To Install git `sudo pacman -S git`, then follow next step
 
 ```
 git clone https://github.com/Ace-c/hyprenv.git && cd hyprenv
