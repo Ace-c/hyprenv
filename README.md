@@ -28,7 +28,7 @@ yay -S --needed qt5-styleplugins wlogout visual-studio-code-bin qimgv-git oh-my-
 ## 2. Automatic Installation (Brainless Process) :
 
 > [!important]
-> You First Need To Install git `sudo pacman -S git`, then follow next step
+> You first need to install **git**, Install it via `sudo pacman -S git`, after that run following cmmd
 
 ```
 git clone https://github.com/Ace-c/hyprenv.git && cd hyprenv
@@ -42,10 +42,10 @@ chmod +x install.sh && ./install.sh
 
 &nbsp;
 
-## Manually install these themes for applications 
+## Install Themes For Applications :
 
 > [!TIP]
-> If you want to add/remove themes, then you need to make changes in the script file `switch1 to switch5` located in **~/.config/hypr/scripts/**.
+> You need to install the following application theme to sync with the system. If you want to add/remove themes, then you need to make changes to the script file `switch1 to switch5` located in **~/.config/hypr/scripts/**.
 
 ### Neovim :
 Install neovim distribution [NvChad](https://nvchad.com/docs/quickstart/install) 
