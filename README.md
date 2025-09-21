@@ -47,7 +47,7 @@ chmod +x install.sh && ./install.sh
 > [!TIP]
 > You need to install the following application theme to sync with the system. If you want to add/remove themes, then you need to make changes to the script file `switch1 to switch5` located in **~/.config/hypr/scripts/**.
 
-### Neovim :
+### Neovim 
 Install neovim distribution [NvChad](https://nvchad.com/docs/quickstart/install) 
 ```
 git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
@@ -56,7 +56,7 @@ git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 > * Delete the `.git` folder from nvim folder
 > * To update run `Lazy sync` command
 
-### Visual studio code (Install all listed themes):
+### Visual studio code (Install all listed themes)
 - [ ] Dracula Clean
 - [ ] Gruvbox dark medium
 - [ ] OneNord
@@ -67,7 +67,10 @@ git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 &nbsp;
 
 
-## Some Keybindings 
+## Some Important Keybinds 
+> [!NOTE]
+> Maybe you like mine keybinds or not, but you can always change that, It's in `~/.config/hypr/hyprland.conf`
+
 
 **1. Switch themes :**
      
@@ -82,9 +85,7 @@ git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 
 **2. Switch Workspace :**    <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>←</kbd><kbd>→</kbd>
 
-
 **3. Switch Waybar Style :**   <kbd>Super</kbd> + <kbd>Alt</kbd> + <kbd>↑</kbd><kbd>↓</kbd>
-
 
 **4. Hide|Unhide Waybar :**    <kbd>Ctrl</kbd> + <kbd>Esc</kbd>
 
