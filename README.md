@@ -28,7 +28,7 @@ yay -S --needed qt5-styleplugins wlogout visual-studio-code-bin qimgv-git oh-my-
 ## 2. Automatic Installation (Brainless Process) :
 
 > [!important]
-> You First Need To Install git `sudo pacman -S git`
+> You First Need To Install git `sudo pacman -S git`, then proceed to next step
 
 ```
 git clone https://github.com/Ace-c/hyprenv.git && cd hyprenv
@@ -47,7 +47,7 @@ chmod +x install.sh && ./install.sh
 > [!TIP]
 > If you want to add/remove themes, then you need to make changes to the script file `switch1 to switch5` located in **~/.config/hypr/scripts/**.
 
-## Neovim :
+### Neovim :
 Install neovim distribution [NvChad](https://nvchad.com/docs/quickstart/install) 
 ```
 git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
@@ -56,7 +56,7 @@ git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 > * Delete the `.git` folder from nvim folder
 > * To update run `Lazy sync` command
 
-## Visual studio code (Install all listed themes):
+### Visual studio code (Install all listed themes):
 - [ ] Dracula Clean
 - [ ] Gruvbox dark medium
 - [ ] OneNord
@@ -67,9 +67,9 @@ git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 &nbsp;
 
 
-# Some Keybindings 
+## Some Keybindings 
 
-## Switch themes :
+**1. Switch themes :**
      
 |  Theme Name    |Keybinds                                              |
 |----------------|------------------------------------------------------|
@@ -80,19 +80,14 @@ git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 |Nord            | <kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>n</kbd>   |
 
 
-## Switch Workspace :
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>←</kbd><kbd>→</kbd>
+**2. Switch Workspace :**    <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>←</kbd><kbd>→</kbd>
 
-## Switch Waybar Style :
 
-<kbd>Super</kbd> + <kbd>Alt</kbd> + <kbd>↑</kbd><kbd>↓</kbd>
+**3. Switch Waybar Style :**   <kbd>Super</kbd> + <kbd>Alt</kbd> + <kbd>↑</kbd><kbd>↓</kbd>
 
-## Hide|Unhide Waybar :
 
-<kbd>Ctrl</kbd> + <kbd>Esc</kbd>
+**4. Hide|Unhide Waybar :**    <kbd>Ctrl</kbd> + <kbd>Esc</kbd>
 
-## Launch Terminal :
-
-<kbd>Super</kbd> + <kbd>return</kbd>
+**5. Launch Terminal :**   <kbd>Super</kbd> + <kbd>return</kbd>
 
 &nbsp;
