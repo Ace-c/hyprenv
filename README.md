@@ -69,7 +69,7 @@ git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 
 ## Some Important Keybinds 
 > [!NOTE]
-> Maybe you like mine keybinds or not, but you can always change that, It's in `~/.config/hypr/hyprland.conf`
+> Keybinds config is in `~/.config/hypr/hyprland.conf`
 
 
 **1. Switch themes :**
