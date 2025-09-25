@@ -1,5 +1,37 @@
 #!/bin/bash
 set -e
+
+# Install packages from official repo
+echo "Installing official packages..."
+sudo pacman -Syu --needed --noconfirm \
+  hyprland waybar rofi-wayland libnotify dunst swww imagemagick \
+  xdg-desktop-portal-hyprland hyprshot hyprlock hypridle hyprsunset \
+  cliphist rofi-emoji nwg-look qt5-wayland qt6-wayland qt5ct qt6ct \
+  kvantum kvantum-qt5 network-manager-applet bluez bluez-utils blueman \
+  udiskie pacman-contrib jq pipewire-audio pipewire-alsa pipewire-jack \
+  pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer \
+  mpv playerctl kitty btop glances pcmanfm-qt lxqt-policykit gvfs tar \
+  zstd git neovim zathura zathura-pdf-mupdf ly ranger amberol fastfetch
+
+# Install yay & AUR packages
+if ! command -v yay &>/dev/null; then
+    echo "Installing yay (AUR helper)..."
+    tmpdir=$(mktemp -d)
+    git clone https://aur.archlinux.org/yay.git "$tmpdir"
+    cd "$tmpdir"
+    makepkg -si --noconfirm
+    cd -
+    rm -rf "$tmpdir"
+else
+    echo "yay already installed."
+fi
+
+echo "Installing AUR packages..."
+yay -S --needed --noconfirm \
+  qt5-styleplugins wlogout visual-studio-code-bin qimgv-git \
+  oh-my-zsh-git zsh-syntax-highlighting-git zsh-autosuggestions-git
+
+# Copy config files 
 echo "copyig files..."
 
 if [ -d ~/.config ]; then
@@ -103,15 +135,13 @@ cp .zshrc ~/
 echo "Copied new .zshrc"
 
 # Change shell to zsh
-current_shell=$(getent passwd "$USER" | cut -d: -f7)
-if [[ "$current_shell" != *zsh ]]; then
+if [[ $SHELL != *zsh ]]; then
     echo "Changing default shell to Zsh..."
-    chsh -s "$(which zsh)"
+    chsh -s "$(command -v zsh)"
     echo "Shell changed to Zsh."
 else
     echo "Shell is already Zsh."
 fi
-
 
 # Select theme
 echo
