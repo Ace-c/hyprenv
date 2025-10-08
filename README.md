@@ -69,7 +69,7 @@ git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 
 ## Some Important Keybinds 
 > [!NOTE]
-> Keybinds config is in `~/.config/hypr/hyprland.conf`
+> By default `ALT` key is used as mainmod, Change to `Super` key, keybinds config is in `~/.config/hypr/hyprland.conf`
 
 
 **1. Switch themes :**
