@@ -14,7 +14,7 @@
 ## 1. Manual Installation (Those who know what to do) :
 ### Packages to Install :
 ```
-sudo pacman -S --needed hyprland waybar rofi-wayland libnotify dunst swww imagemagick xdg-desktop-portal-hyprland hyprshot hyprlock hypridle hyprsunset cliphist rofi-emoji nwg-look qt5-wayland qt6-wayland qt5ct qt6ct kvantum kvantum-qt5 network-manager-applet bluez bluez-utils blueman udiskie pacman-contrib jq pipewire-audio pipewire-alsa pipewire-jack pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer mpv playerctl kitty btop glances pcmanfm-qt lxqt-policykit gvfs tar zstd git neovim zathura zathura-pdf-mupdf ly ranger amberol fastfetch
+sudo pacman -S --needed hyprland waybar rofi-wayland libnotify dunst swww imagemagick xdg-desktop-portal-hyprland hyprshot hyprlock hypridle hyprsunset cliphist rofi-emoji nwg-look qt5-wayland qt6-wayland qt5ct qt6ct kvantum kvantum-qt5 network-manager-applet bluez bluez-utils blueman udiskie pacman-contrib jq pipewire-audio pipewire-alsa pipewire-jack pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer mpv playerctl kitty btop glances pcmanfm-qt lxqt-policykit gvfs tar zstd git neovim zathura zathura-pdf-mupdf ly yazi amberol fastfetch
 ```
 ```
 yay -S --needed qt5-styleplugins wlogout visual-studio-code-bin qimgv-git oh-my-zsh-git zsh-syntax-highlighting-git zsh-autosuggestions-git
