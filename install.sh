@@ -1,8 +1,8 @@
 #!/bin/bash
 set -e
 
-# Install packages from official repo
-echo "Installing official packages..."
+# Installing from official repo
+echo "Installing Packages from official repo..."
 sudo pacman -Syu --needed --noconfirm \
   hyprland waybar rofi-wayland libnotify dunst swww imagemagick \
   xdg-desktop-portal-hyprland hyprshot hyprlock hypridle hyprsunset \
@@ -11,7 +11,7 @@ sudo pacman -Syu --needed --noconfirm \
   udiskie pacman-contrib jq pipewire-audio pipewire-alsa pipewire-jack \
   pipewire-pulse gst-plugin-pipewire wireplumber pavucontrol pamixer \
   mpv playerctl kitty btop glances pcmanfm-qt lxqt-policykit gvfs tar \
-  zstd git neovim zathura zathura-pdf-mupdf ly ranger amberol fastfetch
+  zstd git neovim zathura zathura-pdf-mupdf ly yazi amberol fastfetch
 
 # Install yay & AUR packages
 if ! command -v yay &>/dev/null; then
