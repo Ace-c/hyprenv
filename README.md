@@ -1,3 +1,5 @@
+> [!IMPORTANT]
+> I couldn't finish this project as I wanted(I do have some plans for it, but not time), As of now I halted it for atleast an year.
 
 # Themes 
 
@@ -25,7 +27,7 @@ yay -S --needed qt5-styleplugins wlogout visual-studio-code-bin qimgv-git oh-my-
     sudo pacman -S --needed ttf-jetbrains-mono ttf-hack-nerd ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-font-awesome noto-fonts-emoji
 
 
-## 2. Automatic Installation (Brainless Process) :
+## 2. Automatic Installation (Deprecated) :
 
 > [!important]
 > You first need to install **git**, Install it via `sudo pacman -S git`, after that run following cmmd
