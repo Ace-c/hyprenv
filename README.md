@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> I couldn't finish this project as I wanted(I do have some plans for it, but not time), As of now I halted it for atleast an year.
+> I couldn't finish this project as I wanted(I do have some plans for it, but not time), will continue after for atleast an year.
 
 # Themes 
 
